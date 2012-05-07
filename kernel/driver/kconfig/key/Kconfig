@@ -1,0 +1,4 @@
+#drivers/edsionteDriver/key/Kconfig
+
+config KEY
+    tristate "key support"

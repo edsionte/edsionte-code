@@ -1,0 +1,1 @@
+cmd_/home/edsionte/code/kernel/hello/hello.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-31-generic/scripts/module-common.lds --build-id -o /home/edsionte/code/kernel/hello/hello.ko /home/edsionte/code/kernel/hello/hello.o /home/edsionte/code/kernel/hello/hello.mod.o

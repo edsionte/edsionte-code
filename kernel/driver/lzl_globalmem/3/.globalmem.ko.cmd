@@ -1,0 +1,1 @@
+cmd_/home/edsionte/code/driver/lzl_globalmem/3/globalmem.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-24-generic/scripts/module-common.lds --build-id -o /home/edsionte/code/driver/lzl_globalmem/3/globalmem.ko /home/edsionte/code/driver/lzl_globalmem/3/globalmem.o /home/edsionte/code/driver/lzl_globalmem/3/globalmem.mod.o

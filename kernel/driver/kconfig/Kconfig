@@ -1,0 +1,14 @@
+# dirvers/edsionteDriver/Kconfig
+
+menu "Test edsionteDriver"
+
+config MYDRIVER
+    tristate "Mydriver test"
+config MYDRIVER_USER
+    tristate "User-space interface test"
+    depends on MYDIRVER
+
+source "drivers/edsionteDriver/led/Kconfig"
+source "drivers/edsionteDriver/key/Kconfig"
+
+endmenu

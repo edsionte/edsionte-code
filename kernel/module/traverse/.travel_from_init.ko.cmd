@@ -1,0 +1,1 @@
+cmd_/home/edsionte/code/kernel/module/traverse/travel_from_init.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-38-generic/scripts/module-common.lds --build-id -o /home/edsionte/code/kernel/module/traverse/travel_from_init.ko /home/edsionte/code/kernel/module/traverse/travel_from_init.o /home/edsionte/code/kernel/module/traverse/travel_from_init.mod.o

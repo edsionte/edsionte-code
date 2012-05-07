@@ -1,0 +1,12 @@
+        -:    0:Source:hello.c
+        -:    0:Graph:hello.gcno
+        -:    0:Data:hello.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <stdio.h>
+        -:    2:#include <stdlib.h>
+        1:    3:int main()
+        -:    4:{
+        1:    5:	printf("hello!\n");
+        1:    6:	return 0;
+        -:    7:}

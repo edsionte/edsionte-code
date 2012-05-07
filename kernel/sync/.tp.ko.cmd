@@ -1,0 +1,1 @@
+cmd_/home/edsionte/code/sync/tp.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-24-generic/scripts/module-common.lds --build-id -o /home/edsionte/code/sync/tp.ko /home/edsionte/code/sync/tp.o /home/edsionte/code/sync/tp.mod.o

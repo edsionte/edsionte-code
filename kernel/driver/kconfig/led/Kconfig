@@ -1,0 +1,5 @@
+#drivers/edsinteDriver/led/Kconfig
+
+config LED
+     tristate "led support"
+

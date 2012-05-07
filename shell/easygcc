@@ -1,0 +1,13 @@
+#!/bin/bash
+
+if [ ! "$#" -eq 1 ]
+then
+	echo "Usage: `basename $0` soucefile"
+	exit 1
+fi
+
+outfile=$(ls $1 | cut -d. -f1)
+
+gcc -Wall $1 -o $outfile
+
+exit 0

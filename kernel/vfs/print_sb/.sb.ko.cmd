@@ -1,0 +1,1 @@
+cmd_/home/edsionte/code/vfs/print_sb/sb.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-31-generic/scripts/module-common.lds --build-id -o /home/edsionte/code/vfs/print_sb/sb.ko /home/edsionte/code/vfs/print_sb/sb.o /home/edsionte/code/vfs/print_sb/sb.mod.o

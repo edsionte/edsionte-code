@@ -1,0 +1,1 @@
+cmd_/home/edsionte/code/kernel/cdev/easycdev/mycdev.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-36-generic/scripts/module-common.lds --build-id -o /home/edsionte/code/kernel/cdev/easycdev/mycdev.ko /home/edsionte/code/kernel/cdev/easycdev/mycdev.o /home/edsionte/code/kernel/cdev/easycdev/mycdev.mod.o

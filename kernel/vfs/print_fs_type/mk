@@ -1,0 +1,11 @@
+obj-m:=print_fs_type.o
+
+CUR_PATH:=$(shell pwd)
+VERSION_NUM:=$(shell uname -r)
+KERNEL_PATH:=/usr/src/linux-headers-$(VERSION_NUM)
+
+all:
+	make -C $(KERNEL_PATH) M=$(CUR_PAHT) modules
+clean:
+	make -C $(KERNEL_PATH) M=$(CUR_PAHT) clean
+

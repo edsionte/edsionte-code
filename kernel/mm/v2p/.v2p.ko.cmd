@@ -1,0 +1,1 @@
+cmd_/home/edsionte/code/kernel/mm/v2p/v2p.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-40-generic/scripts/module-common.lds --build-id -o /home/edsionte/code/kernel/mm/v2p/v2p.ko /home/edsionte/code/kernel/mm/v2p/v2p.o /home/edsionte/code/kernel/mm/v2p/v2p.mod.o

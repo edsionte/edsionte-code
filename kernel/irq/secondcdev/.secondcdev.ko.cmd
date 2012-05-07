@@ -1,0 +1,1 @@
+cmd_/home/edsionte/code/irq/secondcdev/secondcdev.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-25-generic/scripts/module-common.lds --build-id -o /home/edsionte/code/irq/secondcdev/secondcdev.ko /home/edsionte/code/irq/secondcdev/secondcdev.o /home/edsionte/code/irq/secondcdev/secondcdev.mod.o

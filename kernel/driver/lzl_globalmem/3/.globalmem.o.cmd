@@ -1,0 +1,1 @@
+cmd_/home/edsionte/code/driver/lzl_globalmem/3/globalmem.o := ld -m elf_i386   -r -o /home/edsionte/code/driver/lzl_globalmem/3/globalmem.o /home/edsionte/code/driver/lzl_globalmem/3/module.o /home/edsionte/code/driver/lzl_globalmem/3/global_fops.o 

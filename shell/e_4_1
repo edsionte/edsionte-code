@@ -1,0 +1,7 @@
+#!/bin/bush
+
+a=375
+hello=$a
+echo hello
+echo $hello
+echo ${hello}

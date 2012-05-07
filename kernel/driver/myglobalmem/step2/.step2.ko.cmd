@@ -1,0 +1,1 @@
+cmd_/home/edsionte/code/driver/myglobalmem/step2/step2.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-21-generic/scripts/module-common.lds --build-id -o /home/edsionte/code/driver/myglobalmem/step2/step2.ko /home/edsionte/code/driver/myglobalmem/step2/step2.o /home/edsionte/code/driver/myglobalmem/step2/step2.mod.o

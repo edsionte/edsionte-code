@@ -1,0 +1,1 @@
+cmd_/home/edsionte/code/vfs/print_fs_type/printfs.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-25-generic/scripts/module-common.lds --build-id -o /home/edsionte/code/vfs/print_fs_type/printfs.ko /home/edsionte/code/vfs/print_fs_type/printfs.o /home/edsionte/code/vfs/print_fs_type/printfs.mod.o

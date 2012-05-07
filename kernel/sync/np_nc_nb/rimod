@@ -1,0 +1,2 @@
+sudo rmmod np_nc_nb
+sudo insmod np_nc_nb.ko

@@ -1,0 +1,1 @@
+cmd_/home/edsionte/code/kernel/irq/paramirq/test.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-34-generic/scripts/module-common.lds --build-id -o /home/edsionte/code/kernel/irq/paramirq/test.ko /home/edsionte/code/kernel/irq/paramirq/test.o /home/edsionte/code/kernel/irq/paramirq/test.mod.o

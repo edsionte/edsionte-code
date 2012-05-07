@@ -1,0 +1,1 @@
+cmd_/home/edsionte/code/sync/mutex_cdev/mutex_globalmem.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-24-generic/scripts/module-common.lds --build-id -o /home/edsionte/code/sync/mutex_cdev/mutex_globalmem.ko /home/edsionte/code/sync/mutex_cdev/mutex_globalmem.o /home/edsionte/code/sync/mutex_cdev/mutex_globalmem.mod.o

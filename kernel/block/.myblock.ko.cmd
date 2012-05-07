@@ -1,0 +1,1 @@
+cmd_/home/edsionte/code/block/myblock.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-25-generic/scripts/module-common.lds --build-id -o /home/edsionte/code/block/myblock.ko /home/edsionte/code/block/myblock.o /home/edsionte/code/block/myblock.mod.o

@@ -1,0 +1,4 @@
+bash NVIDIA-Linux-x86-260.19.21.run
+
+sudo /etc/init.d/gdm stop
+sudo /etc/init.d/gdm start
