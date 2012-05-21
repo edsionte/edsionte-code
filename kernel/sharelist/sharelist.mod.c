@@ -17,9 +17,9 @@ __attribute__((section(".gnu.linkonce.this_module"))) = {
 static const struct modversion_info ____versions[]
 __used
 __attribute__((section("__versions"))) = {
-	{ 0xbce771f0, "module_layout" },
-	{ 0x6dbc4825, "per_cpu__current_task" },
-	{ 0xf9fdaf8c, "kmalloc_caches" },
+	{ 0xad12b0d5, "module_layout" },
+	{ 0xfc43f5ac, "per_cpu__current_task" },
+	{ 0xfac3858a, "kmalloc_caches" },
 	{ 0xb279da12, "pv_lock_ops" },
 	{ 0x6307fc98, "del_timer" },
 	{ 0x973873ab, "_spin_lock" },
@@ -32,7 +32,7 @@ __attribute__((section("__versions"))) = {
 	{ 0x748caf40, "down" },
 	{ 0x45450063, "mod_timer" },
 	{ 0x46085e4f, "add_timer" },
-	{ 0x91920ad0, "kmem_cache_alloc" },
+	{ 0xdeabe977, "kmem_cache_alloc" },
 	{ 0x37a0cba, "kfree" },
 	{ 0x3f1899f1, "up" },
 	{ 0x7e9ebb05, "kernel_thread" },
