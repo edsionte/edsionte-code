@@ -1,8 +1,7 @@
-cmd_/home/edsionte/edsionte-code/kernel/sync/eatingfruit/eatingfruit.mod.o := gcc -Wp,-MD,/home/edsionte/edsionte-code/kernel/sync/eatingfruit/.eatingfruit.mod.o.d  -nostdinc -isystem /usr/lib/gcc/i486-linux-gnu/4.4.3/include  -Iinclude  -I/usr/src/linux-headers-2.6.32-41-generic/arch/x86/include -include include/linux/autoconf.h -Iubuntu/include  -D__KERNEL__ -Wall -Wundef -Wstrict-prototypes -Wno-trigraphs -fno-strict-aliasing -fno-common -Werror-implicit-function-declaration -Wno-format-security -fno-delete-null-pointer-checks -O2 -m32 -msoft-float -mregparm=3 -freg-struct-return -mpreferred-stack-boundary=2 -march=i586 -mtune=generic -maccumulate-outgoing-args -Wa,-mtune=generic32 -ffreestanding -fstack-protector -DCONFIG_AS_CFI=1 -DCONFIG_AS_CFI_SIGNAL_FRAME=1 -pipe -Wno-sign-compare -fno-asynchronous-unwind-tables -mno-sse -mno-mmx -mno-sse2 -mno-3dnow -Wframe-larger-than=1024 -fno-omit-frame-pointer -fno-optimize-sibling-calls -pg -Wdeclaration-after-statement -Wno-pointer-sign -fno-strict-overflow -fno-dwarf2-cfi-asm -fconserve-stack  -D"KBUILD_STR(s)=\#s" -D"KBUILD_BASENAME=KBUILD_STR(eatingfruit.mod)"  -D"KBUILD_MODNAME=KBUILD_STR(eatingfruit)"  -DMODULE -c -o /home/edsionte/edsionte-code/kernel/sync/eatingfruit/eatingfruit.mod.o /home/edsionte/edsionte-code/kernel/sync/eatingfruit/eatingfruit.mod.c
+cmd_/home/edsionte/edsionte-code/kernel/test/sharelist.o := gcc -Wp,-MD,/home/edsionte/edsionte-code/kernel/test/.sharelist.o.d  -nostdinc -isystem /usr/lib/gcc/i486-linux-gnu/4.4.3/include  -Iinclude  -I/usr/src/linux-headers-2.6.32-41-generic/arch/x86/include -include include/linux/autoconf.h -Iubuntu/include  -D__KERNEL__ -Wall -Wundef -Wstrict-prototypes -Wno-trigraphs -fno-strict-aliasing -fno-common -Werror-implicit-function-declaration -Wno-format-security -fno-delete-null-pointer-checks -O2 -m32 -msoft-float -mregparm=3 -freg-struct-return -mpreferred-stack-boundary=2 -march=i586 -mtune=generic -maccumulate-outgoing-args -Wa,-mtune=generic32 -ffreestanding -fstack-protector -DCONFIG_AS_CFI=1 -DCONFIG_AS_CFI_SIGNAL_FRAME=1 -pipe -Wno-sign-compare -fno-asynchronous-unwind-tables -mno-sse -mno-mmx -mno-sse2 -mno-3dnow -Wframe-larger-than=1024 -fno-omit-frame-pointer -fno-optimize-sibling-calls -pg -Wdeclaration-after-statement -Wno-pointer-sign -fno-strict-overflow -fno-dwarf2-cfi-asm -fconserve-stack  -DMODULE -D"KBUILD_STR(s)=\#s" -D"KBUILD_BASENAME=KBUILD_STR(sharelist)"  -D"KBUILD_MODNAME=KBUILD_STR(sharelist)"  -c -o /home/edsionte/edsionte-code/kernel/test/.tmp_sharelist.o /home/edsionte/edsionte-code/kernel/test/sharelist.c
 
-deps_/home/edsionte/edsionte-code/kernel/sync/eatingfruit/eatingfruit.mod.o := \
-  /home/edsionte/edsionte-code/kernel/sync/eatingfruit/eatingfruit.mod.c \
-    $(wildcard include/config/module/unload.h) \
+deps_/home/edsionte/edsionte-code/kernel/test/sharelist.o := \
+  /home/edsionte/edsionte-code/kernel/test/sharelist.c \
   include/linux/module.h \
     $(wildcard include/config/modules.h) \
     $(wildcard include/config/modversions.h) \
@@ -13,6 +12,7 @@ deps_/home/edsionte/edsionte-code/kernel/sync/eatingfruit/eatingfruit.mod.o := \
     $(wildcard include/config/tracing.h) \
     $(wildcard include/config/event/tracing.h) \
     $(wildcard include/config/ftrace/mcount/record.h) \
+    $(wildcard include/config/module/unload.h) \
     $(wildcard include/config/smp.h) \
     $(wildcard include/config/constructors.h) \
     $(wildcard include/config/sysfs.h) \
@@ -436,9 +436,90 @@ deps_/home/edsionte/edsionte-code/kernel/sync/eatingfruit/eatingfruit.mod.o := \
     $(wildcard include/config/mgeode/lx.h) \
   include/asm-generic/module.h \
   include/trace/events/module.h \
-  include/linux/vermagic.h \
-  include/linux/utsrelease.h \
+  include/linux/semaphore.h \
+  include/linux/sched.h \
+    $(wildcard include/config/sched/debug.h) \
+    $(wildcard include/config/detect/softlockup.h) \
+    $(wildcard include/config/detect/hung/task.h) \
+    $(wildcard include/config/core/dump/default/elf/headers.h) \
+    $(wildcard include/config/virt/cpu/accounting.h) \
+    $(wildcard include/config/bsd/process/acct.h) \
+    $(wildcard include/config/taskstats.h) \
+    $(wildcard include/config/audit.h) \
+    $(wildcard include/config/inotify/user.h) \
+    $(wildcard include/config/epoll.h) \
+    $(wildcard include/config/posix/mqueue.h) \
+    $(wildcard include/config/keys.h) \
+    $(wildcard include/config/perf/events.h) \
+    $(wildcard include/config/schedstats.h) \
+    $(wildcard include/config/task/delay/acct.h) \
+    $(wildcard include/config/fair/group/sched.h) \
+    $(wildcard include/config/rt/group/sched.h) \
+    $(wildcard include/config/blk/dev/io/trace.h) \
+    $(wildcard include/config/sysvipc.h) \
+    $(wildcard include/config/auditsyscall.h) \
+    $(wildcard include/config/rt/mutexes.h) \
+    $(wildcard include/config/task/xacct.h) \
+    $(wildcard include/config/cpusets.h) \
+    $(wildcard include/config/cgroups.h) \
+    $(wildcard include/config/futex.h) \
+    $(wildcard include/config/fault/injection.h) \
+    $(wildcard include/config/latencytop.h) \
+    $(wildcard include/config/function/graph/tracer.h) \
+    $(wildcard include/config/have/unstable/sched/clock.h) \
+    $(wildcard include/config/irq/time/accounting.h) \
+    $(wildcard include/config/stack/growsup.h) \
+    $(wildcard include/config/cgroup/sched.h) \
+  include/linux/capability.h \
+    $(wildcard include/config/security/file/capabilities.h) \
+  /usr/src/linux-headers-2.6.32-41-generic/arch/x86/include/asm/cputime.h \
+  include/asm-generic/cputime.h \
+  include/linux/sem.h \
+  include/linux/ipc.h \
+  /usr/src/linux-headers-2.6.32-41-generic/arch/x86/include/asm/ipcbuf.h \
+  include/asm-generic/ipcbuf.h \
+  /usr/src/linux-headers-2.6.32-41-generic/arch/x86/include/asm/sembuf.h \
+  include/linux/signal.h \
+  /usr/src/linux-headers-2.6.32-41-generic/arch/x86/include/asm/signal.h \
+  include/asm-generic/signal-defs.h \
+  /usr/src/linux-headers-2.6.32-41-generic/arch/x86/include/asm/siginfo.h \
+  include/asm-generic/siginfo.h \
+  include/linux/path.h \
+  include/linux/pid.h \
+  include/linux/proportions.h \
+  include/linux/percpu_counter.h \
+  include/linux/seccomp.h \
+    $(wildcard include/config/seccomp.h) \
+  /usr/src/linux-headers-2.6.32-41-generic/arch/x86/include/asm/seccomp.h \
+  /usr/src/linux-headers-2.6.32-41-generic/arch/x86/include/asm/seccomp_32.h \
+  include/linux/unistd.h \
+  /usr/src/linux-headers-2.6.32-41-generic/arch/x86/include/asm/unistd.h \
+  /usr/src/linux-headers-2.6.32-41-generic/arch/x86/include/asm/unistd_32.h \
+  include/linux/rculist.h \
+  include/linux/rtmutex.h \
+    $(wildcard include/config/debug/rt/mutexes.h) \
+  include/linux/plist.h \
+    $(wildcard include/config/debug/pi/list.h) \
+  include/linux/resource.h \
+  /usr/src/linux-headers-2.6.32-41-generic/arch/x86/include/asm/resource.h \
+  include/asm-generic/resource.h \
+  include/linux/hrtimer.h \
+    $(wildcard include/config/high/res/timers.h) \
+  include/linux/task_io_accounting.h \
+    $(wildcard include/config/task/io/accounting.h) \
+  include/linux/latencytop.h \
+  include/linux/cred.h \
+    $(wildcard include/config/debug/credentials.h) \
+    $(wildcard include/config/security.h) \
+  include/linux/key.h \
+    $(wildcard include/config/sysctl.h) \
+  include/linux/sysctl.h \
+  include/linux/selinux.h \
+    $(wildcard include/config/security/selinux.h) \
+  include/linux/aio.h \
+  include/linux/aio_abi.h \
+  include/linux/uio.h \
 
-/home/edsionte/edsionte-code/kernel/sync/eatingfruit/eatingfruit.mod.o: $(deps_/home/edsionte/edsionte-code/kernel/sync/eatingfruit/eatingfruit.mod.o)
+/home/edsionte/edsionte-code/kernel/test/sharelist.o: $(deps_/home/edsionte/edsionte-code/kernel/test/sharelist.o)
 
-$(deps_/home/edsionte/edsionte-code/kernel/sync/eatingfruit/eatingfruit.mod.o):
+$(deps_/home/edsionte/edsionte-code/kernel/test/sharelist.o):

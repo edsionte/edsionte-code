@@ -1,0 +1,1 @@
+cmd_/home/edsionte/edsionte-code/kernel/test/sharelist.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-41-generic/scripts/module-common.lds --build-id -o /home/edsionte/edsionte-code/kernel/test/sharelist.ko /home/edsionte/edsionte-code/kernel/test/sharelist.o /home/edsionte/edsionte-code/kernel/test/sharelist.mod.o

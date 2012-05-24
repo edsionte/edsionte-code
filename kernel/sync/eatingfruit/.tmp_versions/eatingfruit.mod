@@ -1,2 +1,2 @@
-/home/edsionte/code/sync/eatingfruit/eatingfruit.ko
-/home/edsionte/code/sync/eatingfruit/eatingfruit.o
+/home/edsionte/edsionte-code/kernel/sync/eatingfruit/eatingfruit.ko
+/home/edsionte/edsionte-code/kernel/sync/eatingfruit/eatingfruit.o
