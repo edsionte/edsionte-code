@@ -35,7 +35,7 @@ static int sharelist(void *data)
 		printk("\n");
 
 	spin_lock(&my_lock); /* 添加锁，保护共享资源 */
-	if (list_len < 100) {
+	if (list_len < 50) {
 		if ((p = kmalloc(sizeof(struct my_struct), GFP_KERNEL)) == NULL)
 			return -ENOMEM;
 		p->id = atomic_read(&my_count); /* 原子变量操作 */

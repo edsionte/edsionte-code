@@ -17,22 +17,21 @@ __attribute__((section(".gnu.linkonce.this_module"))) = {
 static const struct modversion_info ____versions[]
 __used
 __attribute__((section("__versions"))) = {
-	{ 0xad12b0d5, "module_layout" },
-	{ 0xfc43f5ac, "per_cpu__current_task" },
-	{ 0xfac3858a, "kmalloc_caches" },
-	{ 0xb279da12, "pv_lock_ops" },
-	{ 0x6307fc98, "del_timer" },
-	{ 0x973873ab, "_spin_lock" },
-	{ 0x105e2727, "__tracepoint_kmalloc" },
-	{ 0x6a9f26c9, "init_timer_key" },
-	{ 0x7d11c268, "jiffies" },
+	{ 0xbba12089, "module_layout" },
+	{ 0xc8b57c27, "autoremove_wake_function" },
+	{ 0x67053080, "current_kernel_time" },
+	{ 0x8b18496f, "__copy_to_user_ll" },
+	{ 0x8a01e6cb, "my_sys_audit" },
+	{ 0x936f4743, "current_task" },
 	{ 0xb72397d5, "printk" },
+	{ 0xa1c76e0a, "_cond_resched" },
+	{ 0xf3341268, "__clear_user" },
 	{ 0xb4390f9a, "mcount" },
-	{ 0x45450063, "mod_timer" },
-	{ 0x46085e4f, "add_timer" },
-	{ 0xdeabe977, "kmem_cache_alloc" },
-	{ 0x37a0cba, "kfree" },
-	{ 0x7e9ebb05, "kernel_thread" },
+	{ 0x18defccf, "my_getaudit" },
+	{ 0x4292364c, "schedule" },
+	{ 0xf09c7f68, "__wake_up" },
+	{ 0xe75663a, "prepare_to_wait" },
+	{ 0xb00ccc33, "finish_wait" },
 };
 
 static const char __module_depends[]
@@ -41,4 +40,4 @@ __attribute__((section(".modinfo"))) =
 "depends=";
 
 
-MODULE_INFO(srcversion, "D9AC34AE5EC7CA744BC4609");
+MODULE_INFO(srcversion, "8A168B4955284270563A36F");
