@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include
+END
+category.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/category.h
+END
+layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/layout.h
+END
+layout_type_basic.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/layout_type_basic.h
+END
+layout_type_dated.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/layout_type_dated.h
+END
+defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/defs.h
+END
+priority.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/priority.h
+END
+location_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/location_info.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/version.h
+END
+appender_type_rollingfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/appender_type_rollingfile.h
+END
+rollingpolicy.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/rollingpolicy.h
+END
+logging_event.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/logging_event.h
+END
+appender_type_stream2.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/appender_type_stream2.h
+END
+appender.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/appender.h
+END
+rollingpolicy_type_sizewin.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/rollingpolicy_type_sizewin.h
+END
+appender_type_syslog.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/appender_type_syslog.h
+END
+layout_type_basic_r.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/layout_type_basic_r.h
+END
+layout_type_dated_r.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/layout_type_dated_r.h
+END
+init.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/init.h
+END
+rc.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/rc.h
+END
+config-win32.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/config-win32.h
+END
+log4c.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/log4c.h
+END
+appender_type_mmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/appender_type_mmap.h
+END
+buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/buffer.h
+END
+appender_type_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1376/trunk/hlfs/3part/log/include/appender_type_stream.h
+END

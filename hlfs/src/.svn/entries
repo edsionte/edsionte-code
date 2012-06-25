@@ -1,0 +1,129 @@
+10
+
+dir
+1377
+https://cloudxy.googlecode.com/svn/trunk/hlfs/src
+https://cloudxy.googlecode.com/svn
+
+
+
+2012-06-19T05:33:08.338138Z
+1376
+harryxiyou
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8f717bb2-1fde-2800-3b51-3e1dc26c946c
+
+icache
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2012-06-20T01:37:26.000000Z
+015028c72f14571941fbec7f4899ed52
+2012-06-19T05:33:08.338138Z
+1376
+harryxiyou
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6623
+
+snapshot
+dir
+
+logger
+dir
+
+tools
+dir
+
+utils
+dir
+
+clone
+dir
+
+gen_cscope_ctags_files.sh
+file
+
+
+
+
+2012-06-20T01:37:26.000000Z
+ff46d22fa6ca5dd283dfce958f08c9c6
+2012-06-19T05:33:08.338138Z
+1376
+harryxiyou
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+34
+
+clean
+dir
+
+include
+dir
+
+cache
+dir
+
+storage
+dir
+
+backend
+dir
+

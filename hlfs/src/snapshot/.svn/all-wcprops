@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1376/trunk/hlfs/src/snapshot
+END
+hlfs_find_inode_by_name.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1376/trunk/hlfs/src/snapshot/hlfs_find_inode_by_name.c
+END
+hlfs_get_inode_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1376/trunk/hlfs/src/snapshot/hlfs_get_inode_info.c
+END
+hlfs_open_by_inode.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1376/trunk/hlfs/src/snapshot/hlfs_open_by_inode.c
+END
+hlfs_open_by_snapshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1376/trunk/hlfs/src/snapshot/hlfs_open_by_snapshot.c
+END
+hlfs_rm_snapshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1376/trunk/hlfs/src/snapshot/hlfs_rm_snapshot.c
+END
+hlfs_find_inode_before_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1376/trunk/hlfs/src/snapshot/hlfs_find_inode_before_time.c
+END
+snapshot_helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1376/trunk/hlfs/src/snapshot/snapshot_helper.c
+END
+hlfs_take_snapshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1376/trunk/hlfs/src/snapshot/hlfs_take_snapshot.c
+END
+hlfs_list_all_snapshots.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1376/trunk/hlfs/src/snapshot/hlfs_list_all_snapshots.c
+END

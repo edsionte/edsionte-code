@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1376/trunk/hlfs/3part/hadoop/lib64
+END
+libhadooppipes.a
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1376/trunk/hlfs/3part/hadoop/lib64/libhadooppipes.a
+END
+libhadooputils.a
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1376/trunk/hlfs/3part/hadoop/lib64/libhadooputils.a
+END
+core-3.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1376/trunk/hlfs/3part/hadoop/lib64/core-3.1.1.jar
+END
+libhdfs.so.0.0.0
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1376/trunk/hlfs/3part/hadoop/lib64/libhdfs.so.0.0.0
+END
+libhdfs.la
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1376/trunk/hlfs/3part/hadoop/lib64/libhdfs.la
+END
+commons-logging-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1376/trunk/hlfs/3part/hadoop/lib64/commons-logging-1.0.4.jar
+END
+libhdfs.so.0
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1376/trunk/hlfs/3part/hadoop/lib64/libhdfs.so.0
+END
+libhdfs.so
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1376/trunk/hlfs/3part/hadoop/lib64/libhdfs.so
+END
+commons-logging-api-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1376/trunk/hlfs/3part/hadoop/lib64/commons-logging-api-1.0.4.jar
+END

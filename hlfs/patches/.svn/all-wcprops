@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/1376/trunk/hlfs/patches
+END
+hlfs_driver_for_blktap2.patch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1376/trunk/hlfs/patches/hlfs_driver_for_blktap2.patch
+END
+hlfs_driver_for_qemu.patch
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1376/trunk/hlfs/patches/hlfs_driver_for_qemu.patch
+END

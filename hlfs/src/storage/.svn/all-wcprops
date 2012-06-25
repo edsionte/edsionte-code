@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1376/trunk/hlfs/src/storage
+END
+hlfs_open.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1376/trunk/hlfs/src/storage/hlfs_open.c
+END
+init_hlfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1376/trunk/hlfs/src/storage/init_hlfs.c
+END
+hlfs_ctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1376/trunk/hlfs/src/storage/hlfs_ctrl.c
+END
+hlfs_close.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1376/trunk/hlfs/src/storage/hlfs_close.c
+END
+seg_clean_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1376/trunk/hlfs/src/storage/seg_clean_task.c
+END
+hlfs_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1376/trunk/hlfs/src/storage/hlfs_write.c
+END
+hlfs_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1376/trunk/hlfs/src/storage/hlfs_read.c
+END
+hlfs_stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1376/trunk/hlfs/src/storage/hlfs_stat.c
+END
+deinit_hlfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1376/trunk/hlfs/src/storage/deinit_hlfs.c
+END

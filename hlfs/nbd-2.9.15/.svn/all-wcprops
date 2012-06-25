@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1376/trunk/hlfs/nbd-2.9.15
+END
+nbd-server.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1376/trunk/hlfs/nbd-2.9.15/nbd-server.c
+END
+lfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1376/trunk/hlfs/nbd-2.9.15/lfs.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1376/trunk/hlfs/nbd-2.9.15/config.h
+END
+cliserv.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1376/trunk/hlfs/nbd-2.9.15/cliserv.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1376/trunk/hlfs/nbd-2.9.15/CMakeLists.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1376/trunk/hlfs/nbd-2.9.15/README
+END
+nbd-client.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1376/trunk/hlfs/nbd-2.9.15/nbd-client.c
+END

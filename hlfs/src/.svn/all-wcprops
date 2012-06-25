@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/1376/trunk/hlfs/src
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1376/trunk/hlfs/src/CMakeLists.txt
+END
+gen_cscope_ctags_files.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1376/trunk/hlfs/src/gen_cscope_ctags_files.sh
+END

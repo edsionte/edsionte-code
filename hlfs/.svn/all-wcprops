@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/1376/trunk/hlfs
+END
+auto_hdfs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1376/trunk/hlfs/auto_hdfs.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1376/trunk/hlfs/README.txt
+END
+auto_local.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1376/trunk/hlfs/auto_local.sh
+END

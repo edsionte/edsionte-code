@@ -1,0 +1,892 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ABOVE_SNAPSHOT	include/seg_clean.h	/^ 	  ABOVE_SNAPSHOT = 1,  $/;"	e	enum:_seg_in_snapshot
+ALIVE_LOG_BITMAP	include/seg_clean.h	11;"	d
+ALIVE_SNAPSHOT_FILE	include/snapshot.h	20;"	d
+ARCHITECTURE_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	193;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	196;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	199;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	206;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	181;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	187;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+ARCHITECTURE_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+BLK_NO	cache/unittest/test_cache.c	20;"	d	file:
+BLOCK_SIZE	cache/unittest/test_cache_insert.c	14;"	d	file:
+BLOCK_SIZE	cache/unittest/test_cache_insert_query.c	13;"	d	file:
+BLOCK_SIZE	cache/unittest/test_cache_query.c	13;"	d	file:
+BS_READONLY	include/storage.h	18;"	d
+BS_WRITEABLE	include/storage.h	19;"	d
+CACHE_CTRL	include/cache.h	/^}CACHE_CTRL;$/;"	t	typeref:struct:cache_ctrl
+CMAKE_BINARY_DIR	Makefile	/^CMAKE_BINARY_DIR = \/home\/edsionte\/hlfs\/src$/;"	m
+CMAKE_COMMAND	Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	Makefile	/^CMAKE_SOURCE_DIR = \/home\/edsionte\/hlfs\/src$/;"	m
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	10;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	13;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	22;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	25;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	34;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	36;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	40;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	43;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	49;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	52;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	55;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	58;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	61;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	66;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	77;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	86;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	92;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	12;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	18;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	30;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	34;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	36;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	45;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	48;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	54;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	57;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	60;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	68;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	77;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	9;"	d	file:
+CTRL_REGION	storage/init_hlfs.c	/^CTRL_REGION_T CTRL_REGION;$/;"	v
+CTRL_REGION_T	include/ctrl_region.h	/^}CTRL_REGION_T;$/;"	t	typeref:struct:__anon12
+DEF_CACHE_SIZE	include/cache.h	26;"	d
+DEF_FLUSH_INTERVAL	include/cache.h	27;"	d
+DEF_FLUSH_ONCE_SIZE	include/cache.h	29;"	d
+DEF_FLUSH_TRIGGER_LEVEL	include/cache.h	28;"	d
+DEF_ICACHE_SIZE	include/icache.h	23;"	d
+DEF_INVALIDATE_ONCE_SIZE	include/icache.h	25;"	d
+DEF_INVALIDATE_TRIGGER_LEVEL	include/icache.h	24;"	d
+DEF_IO_NONACTIVE_PERIOD	include/seg_clean.h	17;"	d
+DEF_SC_CHECK_PERIOD	include/seg_clean.h	19;"	d
+DEF_SEG_COPY_WATERLEVEL	include/seg_clean.h	18;"	d
+EHLFS_FUNC	include/comm_define.h	39;"	d
+EHLFS_MEM	include/comm_define.h	37;"	d
+EHLFS_NOFILE	include/comm_define.h	38;"	d
+EHLFS_NOITEM	include/comm_define.h	44;"	d
+EHLFS_PARAM	include/comm_define.h	43;"	d
+EHLFS_PERM	include/comm_define.h	42;"	d
+EHLFS_SSEXIST	include/comm_define.h	40;"	d
+EHLFS_SSNOTEXIST	include/comm_define.h	41;"	d
+EHLFS_UNKNOWN	include/comm_define.h	45;"	d
+EMPTY_UP_SNAPSHOT	include/seg_clean.h	/^ static const char* EMPTY_UP_SNAPSHOT="_____";$/;"	v
+FAMILY_CTRL	include/clone.h	/^ }FAMILY_CTRL;$/;"	t	typeref:struct:family_ctrl
+FLUSH_CB	include/cache.h	/^typedef int (*FLUSH_CB)(void* user_data, char *block_buf, uint32_t start_no,uint32_t end_no);$/;"	t
+Fixture	cache/unittest/test_cache.c	/^} Fixture;$/;"	t	typeref:struct:__anon24	file:
+Fixture	cache/unittest/test_cache_destroy.c	/^} Fixture;$/;"	t	typeref:struct:__anon26	file:
+Fixture	cache/unittest/test_cache_flush.c	/^} Fixture;$/;"	t	typeref:struct:__anon25	file:
+Fixture	cache/unittest/test_cache_init.c	/^} Fixture;$/;"	t	typeref:struct:__anon27	file:
+Fixture	cache/unittest/test_cache_insert.c	/^} Fixture;$/;"	t	typeref:struct:__anon28	file:
+Fixture	cache/unittest/test_cache_insert_query.c	/^} Fixture;$/;"	t	typeref:struct:__anon29	file:
+Fixture	cache/unittest/test_cache_query.c	/^} Fixture;$/;"	t	typeref:struct:__anon30	file:
+Fixture	clean/unittest/test_get_refer_inode.c	/^} Fixture;$/;"	t	typeref:struct:__anon21	file:
+Fixture	clean/unittest/test_load_seg_usage.c	/^} Fixture;$/;"	t	typeref:struct:__anon19	file:
+Fixture	clean/unittest/test_seg_migrate.c	/^} Fixture;$/;"	t	typeref:struct:__anon18	file:
+Fixture	clean/unittest/test_seg_usage_calc.c	/^} Fixture;$/;"	t	typeref:struct:__anon20	file:
+Fixture	clean/unittest/test_seg_usage_dump.c	/^} Fixture;$/;"	t	typeref:struct:__anon22	file:
+Fixture	icache/unittest/test_icache.c	/^} Fixture;$/;"	t	typeref:struct:__anon31	file:
+Fixture	snapshot/unittest/test_hlfs_find_inode_before_time.c	/^} Fixture;$/;"	t	typeref:struct:__anon1	file:
+Fixture	snapshot/unittest/test_hlfs_find_inode_by_name.c	/^} Fixture;$/;"	t	typeref:struct:__anon3	file:
+Fixture	snapshot/unittest/test_hlfs_get_all_snapshots.c	/^} Fixture;$/;"	t	typeref:struct:__anon7	file:
+Fixture	snapshot/unittest/test_hlfs_get_inode_info.c	/^} Fixture;$/;"	t	typeref:struct:__anon6	file:
+Fixture	snapshot/unittest/test_hlfs_list_all_snapshots.c	/^} Fixture;$/;"	t	typeref:struct:__anon11	file:
+Fixture	snapshot/unittest/test_hlfs_open_by_inode.c	/^} Fixture;$/;"	t	typeref:struct:__anon4	file:
+Fixture	snapshot/unittest/test_hlfs_open_by_snapshot.c	/^} Fixture;$/;"	t	typeref:struct:__anon5	file:
+Fixture	snapshot/unittest/test_hlfs_rm_snapshot.c	/^} Fixture;$/;"	t	typeref:struct:__anon9	file:
+Fixture	snapshot/unittest/test_hlfs_take_snapshot.c	/^} Fixture;$/;"	t	typeref:struct:__anon8	file:
+Fixture	snapshot/unittest/test_hlfs_tree_snapshots.c	/^} Fixture;$/;"	t	typeref:struct:__anon10	file:
+Fixture	snapshot/unittest/test_take_snapshot.c	/^} Fixture;$/;"	t	typeref:struct:__anon2	file:
+Fixture	tools/unittest/test_hlfs_seg_usage_calc.c	/^} Fixture;$/;"	t	typeref:struct:__anon23	file:
+G_LOG_HLFS_DOMAIN	include/comm_define.h	12;"	d
+HASH_NUM	cache/unittest/test_cache_destroy.c	12;"	d	file:
+HBLOCK_SIZE	utils/storage_helper.c	/^uint32_t  HBLOCK_SIZE;$/;"	v
+HLFS_CTRL	include/base_ops.h	/^typedef struct hlfs_ctrl  HLFS_CTRL;$/;"	t	typeref:struct:hlfs_ctrl
+HLFS_FILE_NAME_MAX	include/comm_define.h	15;"	d
+HLFS_FS	include/comm_define.h	27;"	d
+HLFS_INODE_NO	include/comm_define.h	13;"	d
+HLFS_STAT_T	include/hlfs_ctrl.h	/^}HLFS_STAT_T;$/;"	t	typeref:struct:hlfs_stat
+HLOG_DEBUG	include/hlfs_log.h	95;"	d
+HLOG_ERROR	include/hlfs_log.h	141;"	d
+HLOG_FATAL	include/hlfs_log.h	72;"	d
+HLOG_INFO	include/hlfs_log.h	118;"	d
+HLOG_NOTICE	include/hlfs_log.h	26;"	d
+HLOG_TRACE	include/hlfs_log.h	49;"	d
+HLOG_WARN	include/hlfs_log.h	164;"	d
+IBLOCK_SIZE	icache/unittest/test_icache.c	9;"	d	file:
+ICACHE_CTRL	include/icache.h	/^}ICACHE_CTRL;$/;"	t	typeref:struct:icache_ctrl
+ID_VOID_MAIN	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+IN_SNAPSHOT	include/seg_clean.h	/^ 	  IN_SNAPSHOT  = 0, $/;"	e	enum:_seg_in_snapshot
+LOG_HEADER_LENGTH	include/hlfs_ctrl.h	61;"	d
+LOG_LEN	include/hlfs_log.h	19;"	d
+MAX_BUFSIZE	snapshot/hlfs_list_all_snapshots.c	17;"	d	file:
+MAX_BUFSIZE	snapshot/unittest/test_hlfs_list_all_snapshots.c	18;"	d	file:
+MAX_FILE_NAME_LEN	include/hlfs_ctrl.h	21;"	d
+NBD_OPS_CMD_T	include/cmd_define.h	/^}NBD_OPS_CMD_T;$/;"	t	typeref:struct:__anon14
+NBD_OPS_RSP_T	include/cmd_define.h	/^}NBD_OPS_RSP_T;$/;"	t	typeref:struct:__anon15
+NBD_OPS_STAT	include/cmd_define.h	/^}NBD_OPS_STAT;$/;"	t	typeref:struct:__anon16
+ON_SNAPSHOT	include/seg_clean.h	/^ 	  ON_SNAPSHOT = 2,$/;"	e	enum:_seg_in_snapshot
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	104;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	113;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	116;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	122;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	128;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	131;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	134;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	146;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	149;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	152;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	161;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	164;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	167;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	176;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	179;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	107;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	113;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	116;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	128;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	134;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	140;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	143;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	158;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	92;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	95;"	d	file:
+PLATFORM_ID	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+READ_BLOCK_FUN	logger/block_ops.c	/^typedef int(*READ_BLOCK_FUN)(struct hlfs_ctrl *ctrl,uint32_t storage_address,char* buf);$/;"	t	file:
+REQ_SIZE	snapshot/unittest/test_hlfs_find_inode_before_time.c	17;"	d	file:
+REQ_SIZE	snapshot/unittest/test_hlfs_find_inode_by_name.c	18;"	d	file:
+REQ_SIZE	snapshot/unittest/test_hlfs_get_all_snapshots.c	18;"	d	file:
+REQ_SIZE	snapshot/unittest/test_hlfs_get_inode_info.c	17;"	d	file:
+REQ_SIZE	snapshot/unittest/test_hlfs_list_all_snapshots.c	15;"	d	file:
+REQ_SIZE	snapshot/unittest/test_hlfs_open_by_inode.c	17;"	d	file:
+REQ_SIZE	snapshot/unittest/test_hlfs_open_by_snapshot.c	17;"	d	file:
+REQ_SIZE	snapshot/unittest/test_hlfs_rm_snapshot.c	17;"	d	file:
+REQ_SIZE	snapshot/unittest/test_hlfs_take_snapshot.c	16;"	d	file:
+REQ_SIZE	snapshot/unittest/test_hlfs_tree_snapshots.c	16;"	d	file:
+RM	Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+SEGMENTS_USAGE_FILE	include/seg_clean.h	12;"	d
+SEGMENT_FILE_NAME_MAX	include/comm_define.h	14;"	d
+SEGMENT_SIZE	utils/storage_helper.c	/^uint64_t  SEGMENT_SIZE;$/;"	v
+SEGMENT_SIZE_MASK	utils/storage_helper.c	/^uint64_t  SEGMENT_SIZE_MASK = 0;$/;"	v
+SEGMENT_SIZE_SHIFT	utils/storage_helper.c	/^uint64_t  SEGMENT_SIZE_SHIFT = 0;$/;"	v
+SEG_SNAPSHOT	include/seg_clean.h	/^ 	 }SEG_SNAPSHOT;$/;"	t	typeref:enum:_seg_in_snapshot
+SEG_USAGE_T	include/seg_clean.h	/^}SEG_USAGE_T;$/;"	t	typeref:struct:segment_usage
+SHELL	Makefile	/^SHELL = \/bin\/sh$/;"	m
+SNAPSHOT_FILE	include/snapshot.h	19;"	d
+SS_FILE	snapshot/unittest/test_hlfs_list_all_snapshots.c	17;"	d	file:
+SS_ITEM_SEP	include/snapshot.h	29;"	d
+STORAGE_ITEM	clone/clone.c	/^}STORAGE_ITEM;$/;"	t	typeref:struct:storage_item	file:
+SUFFIXES	Makefile	/^SUFFIXES =$/;"	m
+SegUsageCalcMap	clean/Mapreducer/mr_clean_route.cpp	/^        SegUsageCalcMap(HadoopPipes::TaskContext& context) {$/;"	f	class:SegUsageCalcMap
+SegUsageCalcMap	clean/Mapreducer/mr_clean_route.cpp	/^class SegUsageCalcMap: public HadoopPipes::Mapper {$/;"	c	file:
+SegUsageCalcReader	clean/Mapreducer/mr_clean_route.cpp	/^  SegUsageCalcReader(HadoopPipes::MapContext& context) {$/;"	f	class:SegUsageCalcReader
+SegUsageCalcReader	clean/Mapreducer/mr_clean_route.cpp	/^class SegUsageCalcReader: public HadoopPipes::RecordReader {$/;"	c	file:
+SegUsageCalcReduce	clean/Mapreducer/mr_clean_route.cpp	/^  SegUsageCalcReduce(HadoopPipes::TaskContext& context) {$/;"	f	class:SegUsageCalcReduce
+SegUsageCalcReduce	clean/Mapreducer/mr_clean_route.cpp	/^class SegUsageCalcReduce: public HadoopPipes::Reducer {$/;"	c	file:
+SegUsageCalcWriter	clean/Mapreducer/mr_clean_route.cpp	/^    SegUsageCalcWriter(HadoopPipes::ReduceContext& context) {$/;"	f	class:SegUsageCalcWriter
+SegUsageCalcWriter	clean/Mapreducer/mr_clean_route.cpp	/^class SegUsageCalcWriter: public HadoopPipes::RecordWriter {$/;"	c	file:
+Swap16	clean/Mapreducer/mr_clean_route.cpp	30;"	d	file:
+Swap32	clean/Mapreducer/mr_clean_route.cpp	31;"	d	file:
+Swap64	clean/Mapreducer/mr_clean_route.cpp	36;"	d	file:
+TOTAL_SIZE	snapshot/unittest/test_hlfs_find_inode_before_time.c	18;"	d	file:
+TOTAL_SIZE	snapshot/unittest/test_hlfs_find_inode_by_name.c	19;"	d	file:
+TOTAL_SIZE	snapshot/unittest/test_hlfs_get_all_snapshots.c	19;"	d	file:
+TOTAL_SIZE	snapshot/unittest/test_hlfs_get_inode_info.c	18;"	d	file:
+TOTAL_SIZE	snapshot/unittest/test_hlfs_list_all_snapshots.c	16;"	d	file:
+TOTAL_SIZE	snapshot/unittest/test_hlfs_open_by_inode.c	18;"	d	file:
+TOTAL_SIZE	snapshot/unittest/test_hlfs_open_by_snapshot.c	18;"	d	file:
+TOTAL_SIZE	snapshot/unittest/test_hlfs_rm_snapshot.c	18;"	d	file:
+TOTAL_SIZE	snapshot/unittest/test_hlfs_take_snapshot.c	17;"	d	file:
+TOTAL_SIZE	snapshot/unittest/test_hlfs_tree_snapshots.c	17;"	d	file:
+URI	snapshot/unittest/test_take_snapshot.c	14;"	d	file:
+VERBOSE	Makefile	/^VERBOSE = 1$/;"	m
+_COMM_DEFINE_H_	include/comm_define.h	10;"	d
+_HDFS_BASE_H_	include/base_ops.h	23;"	d
+_HDFS_LFS_H_	include/api/hlfs.h	20;"	d
+_HLFS_ADDRESS_H_	include/address.h	11;"	d
+_HLFS_BS_HDFS_H_	include/bs_hdfs.h	10;"	d
+_HLFS_BS_LOCAL_H_	include/bs_local.h	10;"	d
+_HLFS_CMD_DEFINE_H_	include/cmd_define.h	10;"	d
+_HLFS_CTRL_REGION_H_	include/ctrl_region.h	10;"	d
+_HLFS_H_	include/hlfs_ctrl.h	10;"	d
+_HLFS_LOGGER_H_	include/logger.h	10;"	d
+_HLFS_LOG_H	include/hlfs_log.h	10;"	d
+_HLFS_MISC_H_	include/misc.h	9;"	d
+_HLFS_SEG_CLEAN_HELPER_H_	include/seg_clean_helper.h	10;"	d
+_HLFS_SEG_CLEAN_H_	include/seg_clean.h	10;"	d
+_HLFS_STORAGE_HELPER_H_	include/storage_helper.h	10;"	d
+_HLFS_STORAGE_H_	include/storage.h	2;"	d
+__CACHE_HLEPER_H__	include/cache_helper.h	12;"	d
+__CACHE_H__	include/cache.h	13;"	d
+__CLONE_H__	include/clone.h	10;"	d
+__HLFS_SNAPSHOT_HELPER_H_	include/snapshot_helper.h	10;"	d
+__HLFS_SNAPSHOT_H_	include/snapshot.h	12;"	d
+__ICACHE_H__	include/icache.h	10;"	d
+__append_log	logger/log_ops.c	/^int __append_log(struct hlfs_ctrl *ctrl,const char *db_buff,uint32_t db_start,uint32_t db_end){$/;"	f
+__free_from_cache	cache/cache_helper.c	/^void __free_from_cache(CACHE_CTRL *cctrl, GSList *free_list) {$/;"	f
+__get_cache_free_size	cache/cache_helper.c	/^uint32_t __get_cache_free_size(CACHE_CTRL *cctrl){$/;"	f
+__hlfs_file_open	backend/hdfs_storage.c	/^static bs_file_t  __hlfs_file_open(struct back_storage *storage,const char*path,int flags){$/;"	f	file:
+__hlfs_get_all_snapshots	snapshot/hlfs_list_all_snapshots.c	/^struct snapshot *__hlfs_get_all_snapshots(struct back_storage *storage,int *num_entries){$/;"	f
+__hlog_path	include/hlfs_log.h	/^static char *__hlog_path = NULL;$/;"	v
+__init_hlfs	storage/init_hlfs.c	/^__init_hlfs(const char *uri, uint32_t is_clean_start ,uint32_t seg_clean_check_period,uint32_t copy_waterlevel)$/;"	f
+__is_init_log_path	include/hlfs_log.h	/^static int __is_init_log_path = 0;$/;"	v
+__load_block_by_no	logger/block_ops.c	/^static int __load_block_by_no(struct hlfs_ctrl *ctrl,uint32_t no,READ_BLOCK_FUN RB_FUN,char *block){$/;"	f	file:
+__log4cfile	include/hlfs_log.h	/^static char __log4cfile[128] = {0};$/;"	v
+__msg_log	include/hlfs_log.h	/^static char __msg_log[LOG_LEN];$/;"	v
+__mycat	include/hlfs_log.h	/^static log4c_category_t *__mycat;$/;"	v
+__read_layer_iblock	logger/block_ops.c	/^int __read_layer_iblock(struct hlfs_ctrl *hctrl,uint32_t dbno,int layerno,char *iblock_buf){$/;"	f
+__write_layer_iblock	logger/block_ops.c	/^int __write_layer_iblock(struct hlfs_ctrl *hctrl,uint32_t dbno,int layerno,char *iblock){$/;"	f
+_seg_in_snapshot	include/seg_clean.h	/^ typedef enum _seg_in_snapshot    $/;"	g
+alive_block_num	include/seg_clean.h	/^	uint32_t alive_block_num;$/;"	m	struct:segment_usage
+alive_ss_name	include/hlfs_ctrl.h	/^    char alive_ss_name[MAX_FILE_NAME_LEN];$/;"	m	struct:hlfs_ctrl
+append_log	logger/log_ops.c	/^int append_log(struct hlfs_ctrl *hctrl,const char *db_buff,uint32_t db_start,uint32_t db_end){$/;"	f
+back_storage	include/storage.h	/^struct back_storage   $/;"	s
+base_father_inode	include/clone.h	/^	    uint64_t  base_father_inode;$/;"	m	struct:family_ctrl
+bitmap	include/seg_clean.h	/^	char *bitmap; $/;"	m	struct:segment_usage
+block	include/cache.h	/^	char *block;$/;"	m	struct:__anon13
+block_cache	include/cache.h	/^	GTrashStack *block_cache; 	\/\/Stack used to store cache buffers$/;"	m	struct:cache_ctrl
+block_map	include/cache.h	/^	GHashTable *block_map; 	\/\/Hash Map$/;"	m	struct:cache_ctrl
+block_no	include/cache.h	/^	uint32_t block_no;$/;"	m	struct:__anon13
+block_num	include/seg_clean.h	/^	uint32_t block_num;$/;"	m	struct:segment_usage
+block_size	include/cache.h	/^	uint32_t block_size; 	\/\/Size of each buffer$/;"	m	struct:cache_ctrl
+block_size	include/hlfs_ctrl.h	/^       uint32_t block_size;		        \/* max data block size *\/$/;"	m	struct:hlfs_stat
+block_size	include/hlfs_ctrl.h	/^    uint32_t block_size;		        \/* max data block size *\/$/;"	m	struct:super_block
+block_size	tools/hlfs_mkfs.c	/^static gint block_size = 0;$/;"	v	file:
+block_t	include/cache.h	/^} block_t;$/;"	t	typeref:struct:__anon13
+blocks	include/hlfs_ctrl.h	/^    	int64_t blocks[12];         \/* the first 8KB*12=96KB *\/$/;"	m	struct:inode
+bs_file_append	include/storage.h	/^   int        (*bs_file_append)(struct back_storage *storage,bs_file_t file,const char *write_buff,uint32_t write_len);$/;"	m	struct:back_storage
+bs_file_close	include/storage.h	/^   int        (*bs_file_close)(struct back_storage *storage ,bs_file_t file);$/;"	m	struct:back_storage
+bs_file_create	include/storage.h	/^   bs_file_t  (*bs_file_create)(struct back_storage *storage,const char *path);$/;"	m	struct:back_storage
+bs_file_delete	include/storage.h	/^   int        (*bs_file_delete)(struct back_storage *storage ,const char *path);$/;"	m	struct:back_storage
+bs_file_flush	include/storage.h	/^   int        (*bs_file_flush)(struct back_storage *storage ,bs_file_t file);$/;"	m	struct:back_storage
+bs_file_info	include/storage.h	/^              (*bs_file_info)(struct back_storage *storage,const char *path);$/;"	m	struct:back_storage
+bs_file_info_t	include/storage.h	/^}bs_file_info_t;$/;"	t	typeref:struct:file_info
+bs_file_is_exist	include/storage.h	/^   int        (*bs_file_is_exist)(struct back_storage *storage,const char *path);$/;"	m	struct:back_storage
+bs_file_list_dir	include/storage.h	/^              (*bs_file_list_dir)(struct back_storage *storage,const char * dir,uint32_t* num_entries);};$/;"	m	struct:back_storage
+bs_file_mkdir	include/storage.h	/^   int        (*bs_file_mkdir)(struct back_storage *storage,const char *path);$/;"	m	struct:back_storage
+bs_file_open	include/storage.h	/^   bs_file_t  (*bs_file_open) (struct back_storage *storage ,const char* path,int flags); $/;"	m	struct:back_storage
+bs_file_pread	include/storage.h	/^   int        (*bs_file_pread)(struct back_storage *storage ,bs_file_t file,const char *read_buff,uint32_t read_len,uint64_t pos);$/;"	m	struct:back_storage
+bs_file_t	include/storage.h	/^typedef void* bs_file_t;$/;"	t
+bs_file_tell	include/storage.h	/^   uint64_t   (*bs_file_tell)(struct back_storage *storage,bs_file_t file);$/;"	m	struct:back_storage
+bs_fs_connect	include/storage.h	/^   int        (*bs_fs_connect)(struct back_storage *storage,const char* uri); $/;"	m	struct:back_storage
+bs_fs_disconnect	include/storage.h	/^   int        (*bs_fs_disconnect)(struct back_storage *storage); $/;"	m	struct:back_storage
+bs_fs_t	include/storage.h	/^typedef void* bs_fs_t;$/;"	t
+build_hdfs_path	backend/hdfs_storage.c	/^static void build_hdfs_path(char *full_path,const char* dir,const char * fs_name,const char* path){$/;"	f	file:
+build_local_path	backend/local_storage.c	/^static void build_local_path(char *full_path,const char* dir,const char *fs_name,const char* path){$/;"	f	file:
+build_segfile_name	utils/misc.c	/^int  build_segfile_name(uint32_t segno, const char *segfile_name)$/;"	f
+build_segfile_name_by_address	utils/misc.c	/^int  build_segfile_name_by_address(uint64_t storage_address, const char*segfile_name)$/;"	f
+build_segments_with_cleanall	tools/unittest/test_hlfs_seg_usage_calc.c	/^static void build_segments_with_cleanall(){$/;"	f	file:
+build_segments_with_snapshot	tools/unittest/test_hlfs_seg_usage_calc.c	/^static void build_segments_with_snapshot(){$/;"	f	file:
+build_segments_without_snapshot	tools/unittest/test_hlfs_seg_usage_calc.c	/^static void build_segments_without_snapshot(){$/;"	f	file:
+cache_block_exist	cache/cache_query.c	/^gboolean  cache_block_exist(CACHE_CTRL *cache_ctrl, uint32_t block_no){$/;"	f
+cache_ctrl	cache/unittest/test_cache_destroy.c	/^    CACHE_CTRL *cache_ctrl;$/;"	m	struct:__anon26	file:
+cache_ctrl	cache/unittest/test_cache_flush.c	/^    CACHE_CTRL *cache_ctrl;$/;"	m	struct:__anon25	file:
+cache_ctrl	cache/unittest/test_cache_init.c	/^    CACHE_CTRL *cache_ctrl;$/;"	m	struct:__anon27	file:
+cache_ctrl	cache/unittest/test_cache_insert.c	/^	CACHE_CTRL *cache_ctrl;$/;"	m	struct:__anon28	file:
+cache_ctrl	cache/unittest/test_cache_insert_query.c	/^	CACHE_CTRL *cache_ctrl;$/;"	m	struct:__anon29	file:
+cache_ctrl	cache/unittest/test_cache_query.c	/^	CACHE_CTRL *cache_ctrl;$/;"	m	struct:__anon30	file:
+cache_ctrl	include/cache.h	/^typedef struct cache_ctrl {$/;"	s
+cache_destroy	cache/cache_destroy.c	/^int cache_destroy(CACHE_CTRL *cache_ctrl)$/;"	f
+cache_hit	include/cache.h	/^    uint64_t cache_hit;$/;"	m	struct:cache_ctrl
+cache_init	cache/cache_init.c	/^int cache_init(CACHE_CTRL *cache_ctrl, $/;"	f
+cache_insert_block	cache/cache_insert.c	/^int cache_insert_block(CACHE_CTRL *cache_ctrl, uint32_t block_no, char *block_buf){$/;"	f
+cache_insert_blocks	cache/cache_insert.c	/^int cache_insert_blocks(CACHE_CTRL *cache_ctrl, uint32_t start_block_no, uint32_t block_count, char *block_buf)$/;"	f
+cache_mutex	include/cache.h	/^	GMutex *cache_mutex; 	\/\/Lock of cache$/;"	m	struct:cache_ctrl
+cache_new	cache/cache_init.c	/^CACHE_CTRL *cache_new()$/;"	f
+cache_query	cache/cache_helper.c	/^block_t * cache_query(CACHE_CTRL *cache_ctrl,uint32_t block_no){$/;"	f
+cache_query_block	cache/cache_query.c	/^int cache_query_block(CACHE_CTRL *cache_ctrl, uint32_t block_no, char *block_buf){$/;"	f
+cache_set_write_cb	cache/cache_set_write_cb.c	/^int cache_set_write_cb(CACHE_CTRL *cache_ctrl, void *cb_func, void *cb_user_param)$/;"	f
+cache_size	include/cache.h	/^	uint32_t cache_size; 	\/\/Number of cache buffers$/;"	m	struct:cache_ctrl
+cache_sync	cache/cache_sync.c	/^int cache_sync(CACHE_CTRL *cache_ctrl)$/;"	f
+case1_fixture	snapshot/unittest/test_take_snapshot.c	/^Fixture case1_fixture;$/;"	v
+case1_setup	snapshot/unittest/test_take_snapshot.c	/^void case1_setup()$/;"	f
+case1_teardown	snapshot/unittest/test_take_snapshot.c	/^void case1_teardown()$/;"	f
+case_setup	cache/unittest/test_cache.c	/^void case_setup()$/;"	f
+case_setup	cache/unittest/test_cache_destroy.c	/^void case_setup()$/;"	f
+case_setup	cache/unittest/test_cache_flush.c	/^void case_setup()$/;"	f
+case_setup	cache/unittest/test_cache_init.c	/^void case_setup()$/;"	f
+case_setup	cache/unittest/test_cache_insert.c	/^void case_setup()$/;"	f
+case_setup	cache/unittest/test_cache_insert_query.c	/^void case_setup()$/;"	f
+case_setup	cache/unittest/test_cache_query.c	/^void case_setup()$/;"	f
+case_setup	clean/unittest/test_get_refer_inode.c	/^void case_setup()$/;"	f
+case_setup	clean/unittest/test_load_seg_usage.c	/^void case_setup()$/;"	f
+case_setup	clean/unittest/test_seg_migrate.c	/^void case_setup()$/;"	f
+case_setup	clean/unittest/test_seg_usage_calc.c	/^void case_setup()$/;"	f
+case_setup	clean/unittest/test_seg_usage_dump.c	/^void case_setup()$/;"	f
+case_setup	icache/unittest/test_icache.c	/^void case_setup()$/;"	f
+case_setup	tools/unittest/test_hlfs_seg_usage_calc.c	/^void case_setup()$/;"	f
+case_teardown	cache/unittest/test_cache.c	/^void case_teardown()$/;"	f
+case_teardown	cache/unittest/test_cache_destroy.c	/^void case_teardown()$/;"	f
+case_teardown	cache/unittest/test_cache_flush.c	/^void case_teardown()$/;"	f
+case_teardown	cache/unittest/test_cache_init.c	/^void case_teardown()$/;"	f
+case_teardown	cache/unittest/test_cache_insert.c	/^void case_teardown()$/;"	f
+case_teardown	cache/unittest/test_cache_insert_query.c	/^void case_teardown()$/;"	f
+case_teardown	cache/unittest/test_cache_query.c	/^void case_teardown()$/;"	f
+case_teardown	clean/unittest/test_get_refer_inode.c	/^void case_teardown()$/;"	f
+case_teardown	clean/unittest/test_load_seg_usage.c	/^void case_teardown()$/;"	f
+case_teardown	clean/unittest/test_seg_migrate.c	/^void case_teardown()$/;"	f
+case_teardown	clean/unittest/test_seg_usage_calc.c	/^void case_teardown()$/;"	f
+case_teardown	clean/unittest/test_seg_usage_dump.c	/^void case_teardown()$/;"	f
+case_teardown	icache/unittest/test_icache.c	/^void case_teardown()$/;"	f
+case_teardown	tools/unittest/test_hlfs_seg_usage_calc.c	/^void case_teardown()$/;"	f
+cctrl	include/hlfs_ctrl.h	/^    struct cache_ctrl *cctrl;$/;"	m	struct:hlfs_ctrl	typeref:struct:hlfs_ctrl::cache_ctrl
+cmd	tools/nbd_ops.c	/^static gchar *cmd = NULL;$/;"	v	file:
+cmd	tools/tapdisk_ops.c	/^static gchar *cmd = NULL;$/;"	v	file:
+compare_seg_usage	clean/seg_clean_helper.c	/^static int compare_seg_usage(gconstpointer litem,$/;"	f	file:
+compare_snapshot	snapshot/snapshot_helper.c	/^static int compare_snapshot(gconstpointer litem,$/;"	f	file:
+config_file	cache/unittest/test_cache.c	/^	char *config_file;$/;"	m	struct:__anon24	file:
+copy_waterlevel	include/cmd_define.h	/^    int copy_waterlevel;$/;"	m	struct:__anon16
+copy_waterlevel	include/ctrl_region.h	/^    int  copy_waterlevel;$/;"	m	struct:__anon12
+copy_waterlevel	tools/hlfs_seg_clean.c	/^static gint   copy_waterlevel = 0;$/;"	v	file:
+ctime	include/hlfs_ctrl.h	/^    uint64_t ctime;           \/* create time *\/$/;"	m	struct:log_header
+ctrl	cache/unittest/test_cache.c	/^    HLFS_CTRL *ctrl;$/;"	m	struct:__anon24	file:
+ctrl	snapshot/unittest/test_hlfs_find_inode_before_time.c	/^	struct hlfs_ctrl *ctrl;$/;"	m	struct:__anon1	typeref:struct:__anon1::hlfs_ctrl	file:
+ctrl	snapshot/unittest/test_hlfs_find_inode_by_name.c	/^	struct hlfs_ctrl *ctrl;$/;"	m	struct:__anon3	typeref:struct:__anon3::hlfs_ctrl	file:
+ctrl	snapshot/unittest/test_hlfs_get_all_snapshots.c	/^	struct hlfs_ctrl *ctrl;$/;"	m	struct:__anon7	typeref:struct:__anon7::hlfs_ctrl	file:
+ctrl	snapshot/unittest/test_hlfs_get_inode_info.c	/^	struct hlfs_ctrl *ctrl;$/;"	m	struct:__anon6	typeref:struct:__anon6::hlfs_ctrl	file:
+ctrl	snapshot/unittest/test_hlfs_list_all_snapshots.c	/^	HLFS_CTRL *ctrl;$/;"	m	struct:__anon11	file:
+ctrl	snapshot/unittest/test_hlfs_open_by_inode.c	/^	struct hlfs_ctrl *ctrl;$/;"	m	struct:__anon4	typeref:struct:__anon4::hlfs_ctrl	file:
+ctrl	snapshot/unittest/test_hlfs_open_by_snapshot.c	/^	struct hlfs_ctrl *ctrl;$/;"	m	struct:__anon5	typeref:struct:__anon5::hlfs_ctrl	file:
+ctrl	snapshot/unittest/test_hlfs_rm_snapshot.c	/^	struct hlfs_ctrl *ctrl;$/;"	m	struct:__anon9	typeref:struct:__anon9::hlfs_ctrl	file:
+ctrl	snapshot/unittest/test_hlfs_take_snapshot.c	/^	struct hlfs_ctrl *ctrl;$/;"	m	struct:__anon8	typeref:struct:__anon8::hlfs_ctrl	file:
+ctrl	snapshot/unittest/test_hlfs_tree_snapshots.c	/^	struct hlfs_ctrl *ctrl;$/;"	m	struct:__anon10	typeref:struct:__anon10::hlfs_ctrl	file:
+ctrl	snapshot/unittest/test_take_snapshot.c	/^	struct hlfs_ctrl *ctrl;$/;"	m	struct:__anon2	typeref:struct:__anon2::hlfs_ctrl	file:
+ctrl_region	include/hlfs_ctrl.h	/^    CTRL_REGION_T * ctrl_region;$/;"	m	struct:hlfs_ctrl
+data	include/hlfs_ctrl.h	/^    char data[0];$/;"	m	struct:log_header
+db_num	include/hlfs_ctrl.h	/^    uint32_t db_num;	  \/* db amounts *\/$/;"	m	struct:log_header
+deinit_hlfs	storage/deinit_hlfs.c	/^int deinit_hlfs(struct hlfs_ctrl * ctrl)$/;"	f
+deinit_storage_handler	utils/storage_helper.c	/^int deinit_storage_handler(struct back_storage * storage){$/;"	f
+dir	include/storage.h	/^   char* dir;$/;"	m	struct:back_storage
+dirty_block	include/cache.h	/^	GQueue *dirty_block; 	\/\/LRU queue of dirty blocks$/;"	m	struct:cache_ctrl
+do_snapshot	snapshot/unittest/test_hlfs_find_inode_before_time.c	/^do_snapshot(Fixture *fixture, int i) {$/;"	f	file:
+do_snapshot	snapshot/unittest/test_hlfs_find_inode_by_name.c	/^do_snapshot(Fixture *fixture, int i) {$/;"	f	file:
+do_snapshot	snapshot/unittest/test_hlfs_get_all_snapshots.c	/^do_snapshot(Fixture *fixture, int i) {$/;"	f	file:
+do_snapshot	snapshot/unittest/test_hlfs_get_inode_info.c	/^do_snapshot(Fixture *fixture, int i) {$/;"	f	file:
+do_snapshot	snapshot/unittest/test_hlfs_open_by_inode.c	/^do_snapshot(Fixture *fixture, int i) {$/;"	f	file:
+do_snapshot	snapshot/unittest/test_hlfs_open_by_snapshot.c	/^do_snapshot(Fixture *fixture, int i) {$/;"	f	file:
+do_snapshot	snapshot/unittest/test_hlfs_rm_snapshot.c	/^do_snapshot(Fixture *fixture, int i) {$/;"	f	file:
+do_snapshot	snapshot/unittest/test_hlfs_take_snapshot.c	/^do_snapshot(Fixture *fixture, int i) {$/;"	f	file:
+do_snapshot	snapshot/unittest/test_hlfs_tree_snapshots.c	/^do_snapshot(Fixture *fixture, int i) {$/;"	f	file:
+do_snapshot1	snapshot/unittest/test_hlfs_take_snapshot.c	/^do_snapshot1(Fixture *fixture, int i) {$/;"	f	file:
+do_snapshot1	snapshot/unittest/test_hlfs_tree_snapshots.c	/^do_snapshot1(Fixture *fixture, int i) {$/;"	f	file:
+do_snapshot2	snapshot/unittest/test_hlfs_tree_snapshots.c	/^do_snapshot2(Fixture *fixture, int i) {$/;"	f	file:
+do_snapshot3	snapshot/unittest/test_hlfs_tree_snapshots.c	/^do_snapshot3(Fixture *fixture, int i) {$/;"	f	file:
+do_snapshot4	snapshot/unittest/test_hlfs_tree_snapshots.c	/^do_snapshot4(Fixture *fixture, int i) {$/;"	f	file:
+doubly_iblock	include/hlfs_ctrl.h	/^    	int64_t doubly_iblock;      \/* the next 8K\/8*8K\/8*8K=8GB *\/$/;"	m	struct:inode
+dump_alive_snapshot	snapshot/snapshot_helper.c	/^int dump_alive_snapshot(struct back_storage* storage,const char *alive_snapshot_file,struct snapshot *snapshot){$/;"	f
+dump_iblock	logger/log_ops.c	/^static void dump_iblock(char *iblock){$/;"	f	file:
+dump_log	logger/log_ops.c	/^static int dump_log(struct hlfs_ctrl *ctrl,struct log_header *log){$/;"	f	file:
+dump_seg_usage	clean/seg_usage_dump.c	/^int dump_seg_usage(struct back_storage * storage,$/;"	f
+dump_snapshot	snapshot/snapshot_helper.c	/^int dump_snapshot(struct back_storage *storage, $/;"	f
+dump_snapshot_delmark	snapshot/snapshot_helper.c	/^int dump_snapshot_delmark(struct back_storage *storage, $/;"	f
+emit	clean/Mapreducer/mr_clean_route.cpp	/^    void emit(const std::string& key, const std::string& value) {$/;"	f	class:SegUsageCalcWriter
+end_segno	tools/hlfs_seg_clean.c	/^static gint   end_segno = 0;$/;"	v	file:
+end_segno	tools/hlfs_seg_usage_calc.c	/^static int end_segno;$/;"	v	file:
+entries	tools/hlfs_clone.c	/^static GOptionEntry entries[] = {$/;"	v	file:
+entries	tools/hlfs_mkfs.c	/^static GOptionEntry entries[] = {$/;"	v	file:
+entries	tools/hlfs_seg_clean.c	/^static GOptionEntry entries[] = {$/;"	v	file:
+entries	tools/hlfs_seg_usage_calc.c	/^static GOptionEntry entries[] = {$/;"	v	file:
+entries	tools/hlfs_take_snapshot.c	/^static GOptionEntry entries[] = {$/;"	v	file:
+entries	tools/nbd_ops.c	/^static GOptionEntry entries[] = {$/;"	v	file:
+entries	tools/tapdisk_ops.c	/^static GOptionEntry entries[] = {$/;"	v	file:
+env_reset	tools/unittest/test_hlfs_seg_usage_calc.c	/^static void env_reset(){$/;"	f	file:
+err_no	include/cmd_define.h	/^    int err_no;$/;"	m	struct:__anon15
+error_func	tools/hlfs_clone.c	/^error_func(GOptionContext *context, GOptionGroup *group, $/;"	f	file:
+error_func	tools/hlfs_mkfs.c	/^error_func(GOptionContext *context, GOptionGroup *group, $/;"	f	file:
+error_func	tools/hlfs_seg_clean.c	/^error_func(GOptionContext *context, GOptionGroup *group, $/;"	f	file:
+error_func	tools/hlfs_seg_usage_calc.c	/^error_func(GOptionContext *context, GOptionGroup *group, $/;"	f	file:
+error_func	tools/hlfs_take_snapshot.c	/^error_func(GOptionContext *context, GOptionGroup *group, $/;"	f	file:
+error_func	tools/nbd_ops.c	/^error_func(GOptionContext *context, GOptionGroup *group, $/;"	f	file:
+error_func	tools/tapdisk_ops.c	/^error_func(GOptionContext *context, GOptionGroup *group, $/;"	f	file:
+faimly_init	clone/clone.c	/^int faimly_init(FAMILY_CTRL *fctrl,char* furi,uint64_t fbase_inode,uint32_t fsegno){$/;"	f
+family	include/hlfs_ctrl.h	/^    FAMILY_CTRL *family;$/;"	m	struct:hlfs_ctrl
+family_ctrl	include/clone.h	/^typedef  struct family_ctrl{$/;"	s
+family_destroy	clone/clone.c	/^int family_destroy(FAMILY_CTRL *fctrl){$/;"	f
+family_new	clone/clone.c	/^FAMILY_CTRL * family_new(){$/;"	f
+father_snapshot	tools/hlfs_clone.c	/^static gchar *father_snapshot =NULL;$/;"	v	file:
+father_uri	include/clone.h	/^           char*      father_uri;$/;"	m	struct:family_ctrl
+father_uri	tools/hlfs_clone.c	/^static gchar *father_uri =NULL;$/;"	v	file:
+father_uri_with_snapshot	tools/hlfs_clone.c	/^static gchar *father_uri_with_snapshot = NULL;$/;"	v	file:
+file_append_contents	utils/storage_helper.c	/^int file_append_contents(struct back_storage *storage,const char* filename,const char* contents,uint32_t size){$/;"	f
+file_get_contents	utils/storage_helper.c	/^int file_get_contents(struct back_storage *storage,const char* filename,char**contents,uint32_t *size){$/;"	f
+file_info	include/storage.h	/^typedef struct file_info{$/;"	s
+find_latest_alive_snapshot	snapshot/snapshot_helper.c	/^int find_latest_alive_snapshot(struct back_storage *storage,$/;"	f
+find_latest_alive_snapshot_before_time	snapshot/snapshot_helper.c	/^int find_latest_alive_snapshot_before_time(struct back_storage *storage,$/;"	f
+fixture	cache/unittest/test_cache.c	/^Fixture fixture;$/;"	v
+fixture	cache/unittest/test_cache_destroy.c	/^Fixture fixture;$/;"	v
+fixture	cache/unittest/test_cache_flush.c	/^Fixture fixture;$/;"	v
+fixture	cache/unittest/test_cache_init.c	/^Fixture fixture;$/;"	v
+fixture	cache/unittest/test_cache_insert.c	/^Fixture fixture;$/;"	v
+fixture	cache/unittest/test_cache_insert_query.c	/^Fixture fixture;$/;"	v
+fixture	cache/unittest/test_cache_query.c	/^Fixture fixture;$/;"	v
+fixture	clean/unittest/test_get_refer_inode.c	/^Fixture fixture;$/;"	v
+fixture	clean/unittest/test_load_seg_usage.c	/^Fixture fixture;$/;"	v
+fixture	clean/unittest/test_seg_migrate.c	/^Fixture fixture;$/;"	v
+fixture	clean/unittest/test_seg_usage_calc.c	/^Fixture fixture;$/;"	v
+fixture	clean/unittest/test_seg_usage_dump.c	/^Fixture fixture;$/;"	v
+fixture	icache/unittest/test_icache.c	/^Fixture fixture;$/;"	v
+fixture	tools/unittest/test_hlfs_seg_usage_calc.c	/^Fixture fixture;$/;"	v
+flush_interval	include/cache.h	/^	uint32_t flush_interval; $/;"	m	struct:cache_ctrl
+flush_log	storage/init_hlfs.c	/^int flush_log(struct hlfs_ctrl *ctrl,const char *db_buff,uint32_t db_start,uint32_t db_end){$/;"	f
+flush_once_size	include/cache.h	/^	uint32_t flush_once_size; 	\/\/Number of dirty blocks have been written one time $/;"	m	struct:cache_ctrl
+flush_trigger_level	include/cache.h	/^	uint32_t flush_trigger_level; 	\/\/Percentage $/;"	m	struct:cache_ctrl
+flush_waken_cond	include/cache.h	/^	GCond *flush_waken_cond; 	\/\/The condition of Writer thread awaking flush thread$/;"	m	struct:cache_ctrl
+flush_work	cache/flush_worker.c	/^int flush_work(gpointer data){$/;"	f
+flush_worker	include/cache.h	/^	GThread *flush_worker; 	\/\/Back end flush thread $/;"	m	struct:cache_ctrl
+flush_worker_should_exit	include/cache.h	/^       uint32_t flush_worker_should_exit;$/;"	m	struct:cache_ctrl
+free_all_list	snapshot/snapshot_helper.c	/^static void free_all_list(GList *list){$/;"	f	file:
+free_from_cache	cache/cache_helper.c	/^void free_from_cache(CACHE_CTRL *cctrl, GSList *free_list) {$/;"	f
+from_segno	include/clone.h	/^	    uint32_t  from_segno;$/;"	m	struct:family_ctrl
+fs_handler	include/storage.h	/^   bs_fs_t     fs_handler;$/;"	m	struct:back_storage
+fs_name	include/storage.h	/^   char* fs_name;$/;"	m	struct:back_storage
+fsname	include/hlfs_ctrl.h	/^       char fsname[MAX_FILE_NAME_LEN];		\/* record the file's name *\/$/;"	m	struct:hlfs_stat
+fsname	include/hlfs_ctrl.h	/^    char fsname[MAX_FILE_NAME_LEN];		\/* record the file's name *\/$/;"	m	struct:super_block
+fsname	tools/tapdisk_ops.c	/^static gchar *fsname = NULL;$/;"	v	file:
+gen_conf_file	cache/unittest/test_cache.c	/^int gen_conf_file(char *path, gboolean enable, char *storage_uri, uint64_t block_size, \\$/;"	f
+getProgress	clean/Mapreducer/mr_clean_route.cpp	/^  virtual float getProgress() {$/;"	f	class:SegUsageCalcReader
+get_cache_free_size	cache/cache_helper.c	/^uint32_t get_cache_free_size(CACHE_CTRL *cctrl) {$/;"	f
+get_continues_blocks	cache/cache_helper.c	/^int get_continues_blocks(CACHE_CTRL *cctrl, GSList **continue_block_list){$/;"	f
+get_cur_latest_segment_info	utils/storage_helper.c	/^int get_cur_latest_segment_info(struct back_storage * storage,uint32_t *segno,uint32_t *offset){$/;"	f
+get_current_time	utils/misc.c	/^uint64_t get_current_time(void)$/;"	f
+get_db_storage_addr_in_inode	utils/storage_helper.c	/^uint64_t get_db_storage_addr_in_inode(struct back_storage * storage,$/;"	f
+get_hdfs_storage_ops	include/bs_hdfs.h	/^static struct back_storage * get_hdfs_storage_ops(){$/;"	f
+get_iaddr_bytime_in_seg	snapshot/hlfs_find_inode_before_time.c	/^get_iaddr_bytime_in_seg(struct back_storage *storage, $/;"	f	file:
+get_last_inode_storage_addr_in_seg	utils/storage_helper.c	/^uint64_t get_last_inode_storage_addr_in_seg( struct back_storage * storage, uint32_t segno) $/;"	f
+get_layer1_ibno	utils/address.c	/^int get_layer1_ibno(uint32_t db_no){$/;"	f
+get_layer2_ibno	utils/address.c	/^int get_layer2_ibno(uint32_t db_no){$/;"	f
+get_layer3_ibno	utils/address.c	/^int get_layer3_ibno(uint32_t db_no){$/;"	f
+get_local_storage_ops	include/bs_local.h	/^static struct back_storage * get_local_storage_ops(){$/;"	f
+get_offset	utils/address.c	/^uint32_t get_offset(uint64_t address)$/;"	f
+get_parent_storage	clone/clone.c	/^struct back_storage * get_parent_storage(FAMILY_CTRL *fctrl, uint32_t segno){$/;"	f
+get_refer_inode_between_snapshots	clean/seg_clean_helper.c	/^int get_refer_inode_between_snapshots(struct back_storage *storage,uint32_t segno,GList *snapshot_sorted_list, struct inode ** inode,char **up_sname){$/;"	f
+get_segfile_no	utils/misc.c	/^uint32_t get_segfile_no(const char * segfile)$/;"	f
+get_segno	utils/address.c	/^uint32_t get_segno(uint64_t address)$/;"	f
+get_superblock_keyfile	utils/storage_helper.c	/^static GKeyFile *  get_superblock_keyfile(struct back_storage *storage){$/;"	f	file:
+hctrl	clean/unittest/test_get_refer_inode.c	/^     struct hlfs_ctrl  *hctrl;$/;"	m	struct:__anon21	typeref:struct:__anon21::hlfs_ctrl	file:
+hctrl	clean/unittest/test_seg_migrate.c	/^     struct hlfs_ctrl  *hctrl;$/;"	m	struct:__anon18	typeref:struct:__anon18::hlfs_ctrl	file:
+hctrl	clean/unittest/test_seg_usage_calc.c	/^     struct hlfs_ctrl  *hctrl;$/;"	m	struct:__anon20	typeref:struct:__anon20::hlfs_ctrl	file:
+hdfs_connect	backend/hdfs_storage.c	/^int hdfs_connect(struct back_storage *storage,const char* uri){$/;"	f
+hdfs_disconnect	backend/hdfs_storage.c	/^int hdfs_disconnect(struct back_storage * storage){$/;"	f
+hdfs_file_append	backend/hdfs_storage.c	/^int hdfs_file_append(struct back_storage * storage,bs_file_t file,const char *write_buff,uint32_t write_len){$/;"	f
+hdfs_file_close	backend/hdfs_storage.c	/^int hdfs_file_close(struct back_storage *storage,bs_file_t file){$/;"	f
+hdfs_file_create	backend/hdfs_storage.c	/^bs_file_t  hdfs_file_create(struct back_storage *storage,const char *path){$/;"	f
+hdfs_file_delete	backend/hdfs_storage.c	/^int hdfs_file_delete(struct back_storage *storage,const char* path){$/;"	f
+hdfs_file_flush	backend/hdfs_storage.c	/^int hdfs_file_flush(struct back_storage *storage,bs_file_t file){$/;"	f
+hdfs_file_info	backend/hdfs_storage.c	/^hdfs_file_info(struct back_storage *storage,const char* path){$/;"	f
+hdfs_file_is_exist	backend/hdfs_storage.c	/^int hdfs_file_is_exist(struct back_storage * storage,const char *path){$/;"	f
+hdfs_file_mkdir	backend/hdfs_storage.c	/^int hdfs_file_mkdir(struct back_storage * storage,const char *dir_path){$/;"	f
+hdfs_file_open	backend/hdfs_storage.c	/^bs_file_t hdfs_file_open(struct back_storage *storage,const char *path,int flags){$/;"	f
+hdfs_file_pread	backend/hdfs_storage.c	/^int hdfs_file_pread(struct back_storage *storage,bs_file_t file,const char*read_buff,uint32_t read_len,uint64_t pos){$/;"	f
+hdfs_file_tell	backend/hdfs_storage.c	/^uint64_t hdfs_file_tell(struct back_storage *storage,bs_file_t file){$/;"	f
+hdfs_list_dir	backend/hdfs_storage.c	/^hdfs_list_dir(struct back_storage * storage,const char * dir_path,uint32_t* num_entries){$/;"	f
+head	include/storage.h	/^   char *head;$/;"	m	struct:back_storage
+hlfs_access_mutex	include/hlfs_ctrl.h	/^    GMutex * hlfs_access_mutex;$/;"	m	struct:hlfs_ctrl
+hlfs_clean_start	storage/hlfs_ctrl.c	/^int hlfs_clean_start(struct hlfs_ctrl *ctrl)$/;"	f
+hlfs_clean_stop	storage/hlfs_ctrl.c	/^int hlfs_clean_stop(struct hlfs_ctrl *ctrl)$/;"	f
+hlfs_close	storage/hlfs_close.c	/^int hlfs_close(struct hlfs_ctrl *ctrl){$/;"	f
+hlfs_ctrl	include/hlfs_ctrl.h	/^struct hlfs_ctrl {$/;"	s
+hlfs_find_inode_before_time	snapshot/hlfs_find_inode_before_time.c	/^hlfs_find_inode_before_time(const char *uri, $/;"	f
+hlfs_find_inode_before_time_setup	snapshot/unittest/test_hlfs_find_inode_before_time.c	/^hlfs_find_inode_before_time_setup(Fixture *fixture, const void *data) {$/;"	f	file:
+hlfs_find_inode_before_time_tear_down	snapshot/unittest/test_hlfs_find_inode_before_time.c	/^hlfs_find_inode_before_time_tear_down(Fixture *fixture, const void *data) {$/;"	f	file:
+hlfs_find_inode_by_name	snapshot/hlfs_find_inode_by_name.c	/^int hlfs_find_inode_by_name(const char *uri, const char *sname, uint64_t *inode_addr) {$/;"	f
+hlfs_find_inode_by_name_setup	snapshot/unittest/test_hlfs_find_inode_by_name.c	/^hlfs_find_inode_by_name_setup(Fixture *fixture, const void *data) {$/;"	f	file:
+hlfs_find_inode_by_name_tear_down	snapshot/unittest/test_hlfs_find_inode_by_name.c	/^hlfs_find_inode_by_name_tear_down(Fixture *fixture, const void *data) {$/;"	f	file:
+hlfs_flush	storage/hlfs_ctrl.c	/^int hlfs_flush(struct hlfs_ctrl *ctrl)$/;"	f
+hlfs_get_all_snapshots	snapshot/hlfs_list_all_snapshots.c	/^struct snapshot *hlfs_get_all_snapshots(const char *uri,int *num_entries)$/;"	f
+hlfs_get_all_snapshots_setup	snapshot/unittest/test_hlfs_get_all_snapshots.c	/^hlfs_get_all_snapshots_setup(Fixture *fixture, const void *data) {$/;"	f	file:
+hlfs_get_all_snapshots_tear_down	snapshot/unittest/test_hlfs_get_all_snapshots.c	/^hlfs_get_all_snapshots_tear_down(Fixture *fixture, const void *data) {$/;"	f	file:
+hlfs_get_inode_info	snapshot/hlfs_get_inode_info.c	/^hlfs_get_inode_info(const char *uri,$/;"	f
+hlfs_get_inode_info_setup	snapshot/unittest/test_hlfs_get_inode_info.c	/^hlfs_get_inode_info_setup(Fixture *fixture, const void *data) {$/;"	f	file:
+hlfs_get_inode_info_tear_down	snapshot/unittest/test_hlfs_get_inode_info.c	/^hlfs_get_inode_info_tear_down(Fixture *fixture, const void *data) {$/;"	f	file:
+hlfs_lstat	storage/hlfs_stat.c	/^int hlfs_lstat(const char*uri,HLFS_STAT_T *stat){$/;"	f
+hlfs_open	storage/hlfs_open.c	/^int hlfs_open(struct hlfs_ctrl *ctrl, int flag)$/;"	f
+hlfs_open_by_inode	snapshot/hlfs_open_by_inode.c	/^int hlfs_open_by_inode(struct hlfs_ctrl *ctrl,$/;"	f
+hlfs_open_by_inode_setup	snapshot/unittest/test_hlfs_open_by_inode.c	/^hlfs_open_by_inode_setup(Fixture *fixture, const void *data) {$/;"	f	file:
+hlfs_open_by_inode_tear_down	snapshot/unittest/test_hlfs_open_by_inode.c	/^hlfs_open_by_inode_tear_down(Fixture *fixture, const void *data) {$/;"	f	file:
+hlfs_open_by_snapshot	snapshot/hlfs_open_by_snapshot.c	/^int hlfs_open_by_snapshot(struct hlfs_ctrl *ctrl,$/;"	f
+hlfs_open_by_snapshot_setup	snapshot/unittest/test_hlfs_open_by_snapshot.c	/^hlfs_open_by_snapshot_setup(Fixture *fixture, const void *data) {$/;"	f	file:
+hlfs_open_by_snapshot_tear_down	snapshot/unittest/test_hlfs_open_by_snapshot.c	/^hlfs_open_by_snapshot_tear_down(Fixture *fixture, const void *data) {$/;"	f	file:
+hlfs_path	cache/unittest/test_cache.c	/^char *hlfs_path = "local:\/\/\/tmp\/testenv\/testfs";$/;"	v
+hlfs_read	storage/hlfs_read.c	/^int hlfs_read(struct hlfs_ctrl *ctrl, char* read_buf, uint32_t read_len, uint64_t pos)$/;"	f
+hlfs_rm_snapshot	snapshot/hlfs_rm_snapshot.c	/^hlfs_rm_snapshot(const char *uri,const char *ssname) {$/;"	f
+hlfs_rm_snapshot_setup	snapshot/unittest/test_hlfs_rm_snapshot.c	/^hlfs_rm_snapshot_setup(Fixture *fixture, const void *data) {$/;"	f	file:
+hlfs_rm_snapshot_tear_down	snapshot/unittest/test_hlfs_rm_snapshot.c	/^hlfs_rm_snapshot_tear_down(Fixture *fixture, const void *data) {$/;"	f	file:
+hlfs_set_clean_level	storage/hlfs_ctrl.c	/^int hlfs_set_clean_level(struct hlfs_ctrl *ctrl,unsigned int alive_bytes)$/;"	f
+hlfs_set_user_ctrl_region	storage/hlfs_ctrl.c	/^int hlfs_set_user_ctrl_region(struct hlfs_ctrl *ctrl,CTRL_REGION_T* ctrl_region)$/;"	f
+hlfs_stat	include/hlfs_ctrl.h	/^typedef struct hlfs_stat{$/;"	s
+hlfs_stat	storage/hlfs_stat.c	/^int hlfs_stat(struct hlfs_ctrl* ctrl,HLFS_STAT_T *stat){$/;"	f
+hlfs_take_snapshot	snapshot/hlfs_take_snapshot.c	/^int hlfs_take_snapshot(struct hlfs_ctrl *ctrl, const char *ssname) $/;"	f
+hlfs_take_snapshot_setup	snapshot/unittest/test_hlfs_take_snapshot.c	/^hlfs_take_snapshot_setup(Fixture *fixture, const void *data) {$/;"	f	file:
+hlfs_take_snapshot_tear_down	snapshot/unittest/test_hlfs_take_snapshot.c	/^hlfs_take_snapshot_tear_down(Fixture *fixture, const void *data) {$/;"	f	file:
+hlfs_tree_snapshots_setup	snapshot/unittest/test_hlfs_tree_snapshots.c	/^hlfs_tree_snapshots_setup(Fixture *fixture, const void *data) {$/;"	f	file:
+hlfs_tree_snapshots_tear_down	snapshot/unittest/test_hlfs_tree_snapshots.c	/^hlfs_tree_snapshots_tear_down(Fixture *fixture, const void *data) {$/;"	f	file:
+hlfs_write	storage/hlfs_write.c	/^int hlfs_write(struct hlfs_ctrl *ctrl, char *write_buf, uint32_t write_len, uint64_t pos)$/;"	f
+hostname	include/storage.h	/^   const char* hostname;$/;"	m	struct:back_storage
+ib_amount	utils/address.c	/^uint32_t ib_amount(uint32_t db_start, uint32_t db_end)$/;"	f
+ib_num	include/hlfs_ctrl.h	/^    uint32_t ib_num;	  \/* ib amount *\/$/;"	m	struct:log_header
+iblock	include/hlfs_ctrl.h	/^    	int64_t iblock;             \/* the next 8KB\/8*8KB=8MB *\/$/;"	m	struct:inode
+iblock	include/icache.h	/^	char *   iblock;$/;"	m	struct:__anon17
+iblock_cache	include/icache.h	/^	GTrashStack	*iblock_cache; 	\/\/Stack used to store cache buffers$/;"	m	struct:icache_ctrl
+iblock_lru	include/icache.h	/^	GQueue		*iblock_lru; 	\/\/LRU queue of iblock$/;"	m	struct:icache_ctrl
+iblock_map	include/icache.h	/^	GHashTable	*iblock_map; 	\/\/Hash Map$/;"	m	struct:icache_ctrl
+iblock_no	include/icache.h	/^	uint32_t iblock_no;$/;"	m	struct:__anon17
+iblock_size	include/icache.h	/^	uint32_t 	       iblock_size; 	\/\/Size of each buffer$/;"	m	struct:icache_ctrl
+iblock_t	include/icache.h	/^} iblock_t;$/;"	t	typeref:struct:__anon17
+icache	include/hlfs_ctrl.h	/^    struct icache_ctrl *icache;$/;"	m	struct:hlfs_ctrl	typeref:struct:hlfs_ctrl::icache_ctrl
+icache_ctrl	icache/unittest/test_icache.c	/^	ICACHE_CTRL *icache_ctrl;$/;"	m	struct:__anon31	file:
+icache_ctrl	include/icache.h	/^typedef struct icache_ctrl {$/;"	s
+icache_destroy	icache/icache_destroy.c	/^int icache_destroy(ICACHE_CTRL *icache_ctrl){$/;"	f
+icache_hit	include/icache.h	/^    uint64_t 		icache_hit;$/;"	m	struct:icache_ctrl
+icache_iblock_exist	icache/icache_exist.c	/^gboolean  icache_iblock_exist(ICACHE_CTRL *icache_ctrl, uint32_t block_no){$/;"	f
+icache_init	icache/icache_init.c	/^int icache_init(ICACHE_CTRL *icache_ctrl,$/;"	f
+icache_insert_iblock	icache/icache_insert.c	/^int icache_insert_iblock(ICACHE_CTRL *icache_ctrl, uint32_t iblock_no, char *iblock_buf){$/;"	f
+icache_mutex	include/icache.h	/^	GMutex		*icache_mutex; 	\/\/Lock of cache$/;"	m	struct:icache_ctrl
+icache_new	icache/icache_init.c	/^ICACHE_CTRL *icache_new(){$/;"	f
+icache_query	icache/icache_query.c	/^iblock_t * icache_query(ICACHE_CTRL *icache_ctrl,uint32_t iblock_no){$/;"	f
+icache_query_iblock	icache/icache_query.c	/^int icache_query_iblock(ICACHE_CTRL *icache_ctrl, uint32_t iblock_no, char *iblock_buf){$/;"	f
+icache_size	include/icache.h	/^	uint32_t 	       icache_size; 	\/\/Number of cache buffers$/;"	m	struct:icache_ctrl
+imap_entry	include/hlfs_ctrl.h	/^    struct   inode_map_entry imap_entry;	\/* the inode map in RAM *\/$/;"	m	struct:hlfs_ctrl	typeref:struct:hlfs_ctrl::inode_map_entry
+info_arch	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_platform	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+init_from_superblock	storage/init_hlfs.c	/^int init_from_superblock(struct back_storage *storage, struct hlfs_ctrl *ctrl)$/;"	f
+init_hlfs	storage/init_hlfs.c	/^init_hlfs(const char *uri )$/;"	f
+init_hlfs_by_config	storage/init_hlfs.c	/^init_hlfs_by_config(const char *config_file_path){$/;"	f
+init_storage_handler	utils/storage_helper.c	/^struct back_storage* init_storage_handler(const char* uri)$/;"	f
+inode	include/hlfs_ctrl.h	/^    struct   inode inode;		$/;"	m	struct:hlfs_ctrl	typeref:struct:hlfs_ctrl::inode
+inode	include/hlfs_ctrl.h	/^struct inode {$/;"	s
+inode_addr	include/hlfs_ctrl.h	/^       uint64_t inode_addr;		\/* inode's DISK address *\/ $/;"	m	struct:inode_map_entry
+inode_addr	include/seg_clean.h	/^	uint64_t inode_addr; \/* up snapshot's inode address between snapshot region;if in non-shapshot region,it is pre seg last inode address *\/$/;"	m	struct:segment_usage
+inode_addr	include/snapshot.h	/^	uint64_t inode_addr;$/;"	m	struct:snapshot
+inode_addr1	snapshot/unittest/test_hlfs_get_all_snapshots.c	/^	uint64_t inode_addr1;$/;"	m	struct:__anon7	file:
+inode_addr1	snapshot/unittest/test_hlfs_get_inode_info.c	/^	uint64_t inode_addr1;$/;"	m	struct:__anon6	file:
+inode_addr1	snapshot/unittest/test_hlfs_open_by_inode.c	/^	uint64_t inode_addr1;$/;"	m	struct:__anon4	file:
+inode_addr1	snapshot/unittest/test_hlfs_open_by_snapshot.c	/^	uint64_t inode_addr1;$/;"	m	struct:__anon5	file:
+inode_addr2	snapshot/unittest/test_hlfs_get_all_snapshots.c	/^	uint64_t inode_addr2;$/;"	m	struct:__anon7	file:
+inode_addr2	snapshot/unittest/test_hlfs_get_inode_info.c	/^	uint64_t inode_addr2;$/;"	m	struct:__anon6	file:
+inode_addr2	snapshot/unittest/test_hlfs_open_by_inode.c	/^	uint64_t inode_addr2;$/;"	m	struct:__anon4	file:
+inode_addr2	snapshot/unittest/test_hlfs_open_by_snapshot.c	/^	uint64_t inode_addr2;$/;"	m	struct:__anon5	file:
+inode_addr3	snapshot/unittest/test_hlfs_get_all_snapshots.c	/^	uint64_t inode_addr3;$/;"	m	struct:__anon7	file:
+inode_addr3	snapshot/unittest/test_hlfs_get_inode_info.c	/^	uint64_t inode_addr3;$/;"	m	struct:__anon6	file:
+inode_addr3	snapshot/unittest/test_hlfs_open_by_inode.c	/^	uint64_t inode_addr3;$/;"	m	struct:__anon4	file:
+inode_addr3	snapshot/unittest/test_hlfs_open_by_snapshot.c	/^	uint64_t inode_addr3;$/;"	m	struct:__anon5	file:
+inode_map_entry	include/hlfs_ctrl.h	/^struct inode_map_entry {$/;"	s
+inode_no	include/hlfs_ctrl.h	/^	uint64_t inode_no;	              \/* inode number *\/$/;"	m	struct:inode_map_entry
+invalidate_once_size	include/icache.h	/^	uint32_t		invalidate_once_size; 	\/\/Number of dirty blocks have been written one time $/;"	m	struct:icache_ctrl
+invalidate_trigger_level	include/icache.h	/^	uint32_t		invalidate_trigger_level; 	\/\/ $/;"	m	struct:icache_ctrl
+io_nonactive_period	include/hlfs_ctrl.h	/^    uint32_t io_nonactive_period;$/;"	m	struct:hlfs_ctrl
+is_db_in_level1_index_range	utils/address.c	/^gboolean is_db_in_level1_index_range(uint32_t db_no)$/;"	f
+is_db_in_level2_index_range	utils/address.c	/^gboolean is_db_in_level2_index_range(uint32_t db_no)$/;"	f
+is_db_in_level3_index_range	utils/address.c	/^gboolean is_db_in_level3_index_range(uint32_t db_no)$/;"	f
+is_db_in_level4_index_range	utils/address.c	/^gboolean is_db_in_level4_index_range(uint32_t db_no)$/;"	f
+is_dir	include/storage.h	/^  char       is_dir;$/;"	m	struct:file_info
+is_start_clean	include/cmd_define.h	/^    int is_start_clean;$/;"	m	struct:__anon16
+is_start_clean	include/ctrl_region.h	/^    int  is_start_clean;$/;"	m	struct:__anon12
+last_offset	include/hlfs_ctrl.h	/^       uint32_t last_offset;$/;"	m	struct:hlfs_stat
+last_offset	include/hlfs_ctrl.h	/^    uint32_t last_offset;				    \/* the current offset in current segment *\/$/;"	m	struct:hlfs_ctrl
+last_read_segno	include/hlfs_ctrl.h	/^    uint32_t last_read_segno;$/;"	m	struct:hlfs_ctrl
+last_read_timestamp	include/hlfs_ctrl.h	/^    uint64_t last_read_timestamp;$/;"	m	struct:hlfs_ctrl
+last_rsegfile_handler	include/hlfs_ctrl.h	/^    void *   last_rsegfile_handler;$/;"	m	struct:hlfs_ctrl
+last_rsegfile_offset	include/hlfs_ctrl.h	/^    uint32_t last_rsegfile_offset;          \/* last segfile end offset when last open *\/$/;"	m	struct:hlfs_ctrl
+last_segno	include/hlfs_ctrl.h	/^       uint32_t last_segno;$/;"	m	struct:hlfs_stat
+last_segno	include/hlfs_ctrl.h	/^    uint32_t last_segno;				    \/* the current segment *\/$/;"	m	struct:hlfs_ctrl
+last_write_timestamp	include/hlfs_ctrl.h	/^    uint64_t last_write_timestamp;$/;"	m	struct:hlfs_ctrl
+last_wsegfile_handler	include/hlfs_ctrl.h	/^    void *   last_wsegfile_handler;$/;"	m	struct:hlfs_ctrl
+length	include/hlfs_ctrl.h	/^	int64_t length;$/;"	m	struct:inode
+lmtime	include/storage.h	/^  uint64_t   lmtime;$/;"	m	struct:file_info
+load_all_alive_snapshot	snapshot/snapshot_helper.c	/^static int load_all_alive_snapshot(struct back_storage *storage,const char* alive_snapshot_file,GList **alive_ss_list)$/;"	f	file:
+load_all_seg_usage	clean/seg_clean_helper.c	/^int load_all_seg_usage(struct back_storage *storage,$/;"	f
+load_all_snapshot	snapshot/snapshot_helper.c	/^int load_all_snapshot(struct back_storage *storage,const char* snapshot_file,GHashTable *ss_hashtable)$/;"	f
+load_block_by_addr	logger/block_ops.c	/^int load_block_by_addr(struct hlfs_ctrl *ctrl,uint64_t pos,char* block){$/;"	f
+load_block_by_addr_fast	logger/block_ops.c	/^int load_block_by_addr_fast(struct hlfs_ctrl *ctrl,uint64_t pos,char* block){$/;"	f
+load_block_by_no	logger/block_ops.c	/^int load_block_by_no(struct hlfs_ctrl *ctrl,uint32_t no,char *block){$/;"	f
+load_block_by_no_fast	logger/block_ops.c	/^int load_block_by_no_fast(struct hlfs_ctrl *ctrl,uint32_t no,char *block){$/;"	f
+load_inode	utils/storage_helper.c	/^struct inode *load_inode(struct back_storage * storage,uint64_t inode_storage_addr)$/;"	f
+load_latest_inode	utils/storage_helper.c	/^struct inode * load_latest_inode(struct back_storage *storage) $/;"	f
+load_latest_inode_map_entry	utils/storage_helper.c	/^int load_latest_inode_map_entry(struct back_storage *storage,$/;"	f
+load_seg_usage_by_order	clean/load_seg_usage_by_order.c	/^SEG_USAGE_T* load_seg_usage_by_order (struct back_storage *storage, const char *seg_usage_file,int *num_entries){$/;"	f
+load_snapshot_by_name	snapshot/snapshot_helper.c	/^int load_snapshot_by_name(struct back_storage *storage, $/;"	f
+load_snapshot_from_text	snapshot/snapshot_helper.c	/^static int load_snapshot_from_text(struct snapshot **ss, const char *buf, int *flag)$/;"	f	file:
+local_connect	backend/local_storage.c	/^int local_connect(struct back_storage *storage,const char* uri){$/;"	f
+local_disconnect	backend/local_storage.c	/^int local_disconnect(struct back_storage * storage){$/;"	f
+local_file_append	backend/local_storage.c	/^int local_file_append(struct back_storage * storage,bs_file_t file,const char *write_buff,uint32_t write_len){$/;"	f
+local_file_close	backend/local_storage.c	/^int local_file_close(struct back_storage *storage,bs_file_t file){$/;"	f
+local_file_create	backend/local_storage.c	/^bs_file_t local_file_create(struct back_storage *storage,const char *path){$/;"	f
+local_file_delete	backend/local_storage.c	/^int local_file_delete(struct back_storage *storage,const char* path){$/;"	f
+local_file_flush	backend/local_storage.c	/^int local_file_flush(struct back_storage *storage,bs_file_t file){$/;"	f
+local_file_info	backend/local_storage.c	/^local_file_info(struct back_storage *storage,const char* path){$/;"	f
+local_file_is_exist	backend/local_storage.c	/^int local_file_is_exist(struct back_storage * storage,const char *path){$/;"	f
+local_file_mkdir	backend/local_storage.c	/^int local_file_mkdir(struct back_storage * storage,const char *dir_path){$/;"	f
+local_file_open	backend/local_storage.c	/^bs_file_t local_file_open(struct back_storage *storage,const char *path,int flags){$/;"	f
+local_file_pread	backend/local_storage.c	/^int local_file_pread(struct back_storage *storage,bs_file_t file,const char*read_buff,uint32_t read_len,uint64_t pos){$/;"	f
+local_file_tell	backend/local_storage.c	/^uint64_t local_file_tell(struct back_storage *storage,bs_file_t file){$/;"	f
+local_list_dir	backend/local_storage.c	/^local_list_dir(struct back_storage * storage,const char * dir_path,uint32_t* num_entries){$/;"	f
+log_header	include/hlfs_ctrl.h	/^struct log_header {$/;"	s
+log_num	include/seg_clean.h	/^	uint32_t log_num;$/;"	m	struct:segment_usage
+log_size	include/hlfs_ctrl.h	/^    uint32_t log_size;$/;"	m	struct:log_header
+m_block_size	clean/Mapreducer/mr_clean_route.cpp	/^        uint32_t m_block_size;$/;"	m	class:SegUsageCalcMap	file:
+m_bytes_read	clean/Mapreducer/mr_clean_route.cpp	/^  int64_t m_bytes_read;$/;"	m	class:SegUsageCalcReader	file:
+m_bytes_total	clean/Mapreducer/mr_clean_route.cpp	/^  int64_t m_bytes_total;$/;"	m	class:SegUsageCalcReader	file:
+m_seg_file	clean/Mapreducer/mr_clean_route.cpp	/^  const char* m_seg_file;$/;"	m	class:SegUsageCalcReader	file:
+m_segment_size	clean/Mapreducer/mr_clean_route.cpp	/^	 uint32_t m_segment_size;$/;"	m	class:SegUsageCalcMap	file:
+m_storage	clean/Mapreducer/mr_clean_route.cpp	/^        struct back_storage * m_storage; $/;"	m	class:SegUsageCalcMap	typeref:struct:SegUsageCalcMap::back_storage	file:
+m_storage	clean/Mapreducer/mr_clean_route.cpp	/^    struct back_storage * m_storage; $/;"	m	class:SegUsageCalcWriter	typeref:struct:SegUsageCalcWriter::back_storage	file:
+main	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f
+main	CMakeFiles/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	cache/unittest/test_cache.c	/^int main(int argc, char **argv) {$/;"	f
+main	cache/unittest/test_cache_destroy.c	/^int main(int argc, char **argv) {$/;"	f
+main	cache/unittest/test_cache_flush.c	/^int main(int argc, char **argv) {$/;"	f
+main	cache/unittest/test_cache_init.c	/^int main(int argc, char **argv) {$/;"	f
+main	cache/unittest/test_cache_insert.c	/^int main(int argc, char **argv) {$/;"	f
+main	cache/unittest/test_cache_insert_query.c	/^int main(int argc, char **argv) {$/;"	f
+main	cache/unittest/test_cache_query.c	/^int main(int argc, char **argv) {$/;"	f
+main	clean/Mapreducer/mr_clean_route.cpp	/^int main(int argc, char *argv[]){ $/;"	f
+main	clean/unittest/test_get_refer_inode.c	/^int main(int argc, char **argv) {$/;"	f
+main	clean/unittest/test_load_seg_usage.c	/^int main(int argc, char **argv) {$/;"	f
+main	clean/unittest/test_seg_migrate.c	/^int main(int argc, char **argv) {$/;"	f
+main	clean/unittest/test_seg_usage_calc.c	/^int main(int argc, char **argv) {$/;"	f
+main	clean/unittest/test_seg_usage_dump.c	/^int main(int argc, char **argv) {$/;"	f
+main	icache/unittest/test_icache.c	/^int main(int argc, char **argv) {$/;"	f
+main	snapshot/unittest/test_hlfs_find_inode_before_time.c	/^int main(int argc, char **argv) {$/;"	f
+main	snapshot/unittest/test_hlfs_find_inode_by_name.c	/^int main(int argc, char **argv) {$/;"	f
+main	snapshot/unittest/test_hlfs_get_all_snapshots.c	/^int main(int argc, char **argv) {$/;"	f
+main	snapshot/unittest/test_hlfs_get_inode_info.c	/^int main(int argc, char **argv) {$/;"	f
+main	snapshot/unittest/test_hlfs_list_all_snapshots.c	/^int main(int argc, char **argv) {$/;"	f
+main	snapshot/unittest/test_hlfs_open_by_inode.c	/^int main(int argc, char **argv) {$/;"	f
+main	snapshot/unittest/test_hlfs_open_by_snapshot.c	/^int main(int argc, char **argv) {$/;"	f
+main	snapshot/unittest/test_hlfs_rm_snapshot.c	/^int main(int argc, char **argv) {$/;"	f
+main	snapshot/unittest/test_hlfs_take_snapshot.c	/^int main(int argc, char **argv) {$/;"	f
+main	snapshot/unittest/test_hlfs_tree_snapshots.c	/^int main(int argc, char **argv) {$/;"	f
+main	snapshot/unittest/test_take_snapshot.c	/^int main(int argc, char **argv) {$/;"	f
+main	tools/hlfs_clone.c	/^int main(int argc, char *argv[])$/;"	f
+main	tools/hlfs_mkfs.c	/^int main(int argc, char *argv[])$/;"	f
+main	tools/hlfs_seg_clean.c	/^int main(int argc, char *argv[])$/;"	f
+main	tools/hlfs_seg_usage_calc.c	/^int main(int argc, char *argv[])$/;"	f
+main	tools/hlfs_take_snapshot.c	/^int main(int argc, char *argv[])$/;"	f
+main	tools/nbd_ops.c	/^int main(int argc, char *argv[])$/;"	f
+main	tools/tapdisk_ops.c	/^int main(int argc, char *argv[])$/;"	f
+main	tools/unittest/test_hlfs_seg_usage_calc.c	/^int main(int argc, char **argv) {$/;"	f
+map	clean/Mapreducer/mr_clean_route.cpp	/^        void map(HadoopPipes::MapContext& context) {$/;"	f	class:SegUsageCalcMap
+max_fs_size	include/hlfs_ctrl.h	/^       uint64_t max_fs_size;               \/* max filesystem size *\/$/;"	m	struct:hlfs_stat
+max_fs_size	include/hlfs_ctrl.h	/^    uint64_t max_fs_size;               \/* max filesystem size *\/$/;"	m	struct:super_block
+max_fs_size	tools/hlfs_mkfs.c	/^static int64_t max_fs_size = 0;$/;"	v	file:
+migrate_alive_blocks	clean/migrate_alive_blocks.c	/^int migrate_alive_blocks (struct hlfs_ctrl *hctrl,SEG_USAGE_T *seg_usage){$/;"	f
+mtime	include/hlfs_ctrl.h	/^    	uint64_t mtime;               \/* time of last modification *\/$/;"	m	struct:inode
+mutex	include/hlfs_log.h	/^static GStaticMutex mutex = G_STATIC_MUTEX_INIT;$/;"	v
+my_cb	cache/unittest/test_cache_insert.c	/^int my_cb(void *user_data, char *buf, uint32_t start_no,uint32_t end_no)$/;"	f
+name	include/storage.h	/^  const char name[SEGMENT_FILE_NAME_MAX];$/;"	m	struct:file_info
+nbd_ops_cmd	include/cmd_define.h	/^    } nbd_ops_cmd;$/;"	m	struct:__anon14	typeref:enum:__anon14::ops_cmd
+nbd_server_pid	tools/nbd_ops.c	/^static gint nbd_server_pid = 0;$/;"	v	file:
+next	clean/Mapreducer/mr_clean_route.cpp	/^  virtual bool next(std::string& key, std::string& value) {$/;"	f	class:SegUsageCalcReader
+ops_cmd	include/cmd_define.h	/^    enum ops_cmd {$/;"	g	struct:__anon14
+param1	tools/nbd_ops.c	/^static gint   param1 = 0;$/;"	v	file:
+param1	tools/tapdisk_ops.c	/^static gint   param1 = 0;$/;"	v	file:
+parse_from_uri	utils/misc.c	/^int parse_from_uri(const char *uri, char ** head, char** hostname ,char** dir,char** fs_name,int* port)$/;"	f
+port	include/storage.h	/^   uint32_t port;$/;"	m	struct:back_storage
+predicate_same_upname_snapshot	snapshot/snapshot_helper.c	/^static void predicate_same_upname_snapshot(gpointer key,gpointer value,gpointer user_data){$/;"	f	file:
+prev_open_rsegfile	logger/segfile_handler_optmize.c	/^int prev_open_rsegfile(struct hlfs_ctrl *ctrl,uint32_t segno){$/;"	f
+prev_open_wsegfile	logger/segfile_handler_optmize.c	/^int prev_open_wsegfile(struct hlfs_ctrl *ctrl){$/;"	f
+query_stat	include/cmd_define.h	/^	    query_stat = 3$/;"	e	enum:__anon14::ops_cmd
+read_block	utils/misc.c	/^int read_block(struct back_storage *storage ,uint64_t storage_address,uint32_t block_size,char *block_buf)$/;"	f
+read_block_fast	logger/segfile_handler_optmize.c	/^int read_block_fast(struct hlfs_ctrl *ctrl,uint64_t storage_address,char* block)$/;"	f
+read_block_raw	logger/block_ops.c	/^static int read_block_raw(struct hlfs_ctrl *ctrl,uint32_t storage_address,char* block_buf)$/;"	f	file:
+read_fs_meta	utils/storage_helper.c	/^int read_fs_meta(struct back_storage *storage,uint32_t *segment_size,uint32_t *block_size,uint64_t *max_fs_size)$/;"	f
+read_fs_meta_all	utils/storage_helper.c	/^int  read_fs_meta_all(struct back_storage *storage,uint32_t *segment_size,uint32_t *block_size,uint64_t *max_fs_size,$/;"	f
+read_layer1_iblock	logger/block_ops.c	/^int read_layer1_iblock(struct hlfs_ctrl *hctrl,uint32_t dbno,char *iblock){$/;"	f
+read_layer2_iblock	logger/block_ops.c	/^int read_layer2_iblock(struct hlfs_ctrl *hctrl,uint32_t dbno,char *iblock){$/;"	f
+read_layer3_iblock	logger/block_ops.c	/^int read_layer3_iblock(struct hlfs_ctrl *hctrl,uint32_t dbno,char *iblock){$/;"	f
+reduce	clean/Mapreducer/mr_clean_route.cpp	/^  void reduce(HadoopPipes::ReduceContext& context) {$/;"	f	class:SegUsageCalcReduce
+redump_all_snapshot	snapshot/snapshot_helper.c	/^int redump_all_snapshot(struct back_storage *storage,const char* snapshot_file,GHashTable *ss_hashtable){$/;"	f
+restore_last_segno_file	utils/storage_helper.c	/^static int restore_last_segno_file(const char* uri,const char*path){$/;"	f	file:
+revise_snapshot_relation	snapshot/snapshot_helper.c	/^static void revise_snapshot_relation(GHashTable *ss_hashtable,GList *remove_list){$/;"	f	file:
+rw_inode_flag	include/hlfs_ctrl.h	/^    int rw_inode_flag;$/;"	m	struct:hlfs_ctrl
+sb	include/hlfs_ctrl.h	/^    struct   super_block sb;	        	\/* the sb in RAM *\/$/;"	m	struct:hlfs_ctrl	typeref:struct:hlfs_ctrl::super_block
+seg_clean_task	storage/seg_clean_task.c	/^int seg_clean_task(struct hlfs_ctrl * ctrl)$/;"	f
+seg_clean_thread	include/hlfs_ctrl.h	/^    GThread *seg_clean_thread;$/;"	m	struct:hlfs_ctrl
+seg_size	include/hlfs_ctrl.h	/^       uint32_t seg_size;					\/* max segment size *\/$/;"	m	struct:hlfs_stat
+seg_size	include/hlfs_ctrl.h	/^    uint32_t seg_size;					\/* max segment size *\/$/;"	m	struct:super_block
+seg_size	tools/hlfs_mkfs.c	/^static gint seg_size = 0;$/;"	v	file:
+seg_storage_list	include/clone.h	/^        GList*    seg_storage_list;$/;"	m	struct:family_ctrl
+seg_usage2text	clean/seg_clean_helper.c	/^int seg_usage2text(SEG_USAGE_T * seg_usage,char *textbuf){$/;"	f
+seg_usage4text	clean/seg_clean_helper.c	/^int seg_usage4text(SEG_USAGE_T * seg_usage, const char *textbuf){$/;"	f
+seg_usage_calc	clean/seg_usage_calc.c	/^int seg_usage_calc(struct back_storage* storage,uint32_t block_size,uint32_t segno,struct inode *refer_inode,SEG_USAGE_T *seg_usage)$/;"	f
+segment_usage	include/seg_clean.h	/^typedef struct segment_usage {$/;"	s
+segno	clone/clone.c	/^	uint32_t segno;$/;"	m	struct:storage_item	file:
+segno	include/seg_clean.h	/^	uint32_t segno;	$/;"	m	struct:segment_usage
+set_copy_waterlevel	include/cmd_define.h	/^            set_copy_waterlevel =2,$/;"	e	enum:__anon14::ops_cmd
+set_offset	utils/address.c	/^void set_offset(uint64_t *address, uint32_t offset)$/;"	f
+set_segno	utils/address.c	/^void set_segno(uint64_t *address, uint32_t segment_no)$/;"	f
+size	include/storage.h	/^  uint64_t   size;$/;"	m	struct:file_info
+sname	include/snapshot.h	/^	char sname[HLFS_FILE_NAME_MAX];$/;"	m	struct:snapshot
+snapshot	include/snapshot.h	/^struct snapshot {$/;"	s
+snapshot	tools/hlfs_take_snapshot.c	/^static gchar *snapshot = NULL;$/;"	v	file:
+snapshot2text	snapshot/snapshot_helper.c	/^static int snapshot2text(const struct snapshot *snapshot, char *textbuf) $/;"	f	file:
+snapshot_delmark2text	snapshot/snapshot_helper.c	/^static int snapshot_delmark2text(const char *ssname, char *textbuf) {$/;"	f	file:
+son_uri	tools/hlfs_clone.c	/^static gchar *son_uri = NULL;$/;"	v	file:
+sort_all_seg_usage	clean/seg_clean_helper.c	/^int sort_all_seg_usage(GHashTable *su_hashtable,GList **su_list){$/;"	f
+sort_all_snapshot	snapshot/snapshot_helper.c	/^int sort_all_snapshot(GHashTable *ss_hashtable,GList **ss_list){$/;"	f
+sort_finfo_with_time	snapshot/hlfs_find_inode_before_time.c	/^sort_finfo_with_time(gconstpointer linfo, gconstpointer rinfo) {$/;"	f	file:
+start_clean	include/cmd_define.h	/^	    start_clean =1,$/;"	e	enum:__anon14::ops_cmd
+start_db_no	include/hlfs_ctrl.h	/^    uint32_t start_db_no;  \/* log first db no*\/$/;"	m	struct:log_header
+start_segno	include/hlfs_ctrl.h	/^    uint32_t start_segno;$/;"	m	struct:hlfs_ctrl
+start_segno	tools/hlfs_seg_clean.c	/^static gint   start_segno = 0;$/;"	v	file:
+start_segno	tools/hlfs_seg_usage_calc.c	/^static int start_segno;$/;"	v	file:
+storage	clean/unittest/test_load_seg_usage.c	/^     struct back_storage *storage;$/;"	m	struct:__anon19	typeref:struct:__anon19::back_storage	file:
+storage	clean/unittest/test_seg_usage_dump.c	/^     struct back_storage *storage;$/;"	m	struct:__anon22	typeref:struct:__anon22::back_storage	file:
+storage	clone/clone.c	/^	struct back_storage* storage;$/;"	m	struct:storage_item	typeref:struct:storage_item::back_storage	file:
+storage	include/hlfs_ctrl.h	/^    struct   back_storage *storage;$/;"	m	struct:hlfs_ctrl	typeref:struct:hlfs_ctrl::back_storage
+storage_item	clone/clone.c	/^typedef struct storage_item{$/;"	s	file:
+storage_name	include/storage.h	/^   char* storage_name;$/;"	m	struct:back_storage
+super_block	include/hlfs_ctrl.h	/^struct super_block {$/;"	s
+take_snapshot	snapshot/unittest/test_hlfs_find_inode_before_time.c	/^take_snapshot(Fixture *fixture, const void *data) {$/;"	f	file:
+take_snapshot	snapshot/unittest/test_hlfs_find_inode_by_name.c	/^take_snapshot(Fixture *fixture, const void *data) {$/;"	f	file:
+take_snapshot	snapshot/unittest/test_hlfs_get_all_snapshots.c	/^take_snapshot(Fixture *fixture, const void *data) {$/;"	f	file:
+take_snapshot	snapshot/unittest/test_hlfs_get_inode_info.c	/^take_snapshot(Fixture *fixture, const void *data) {$/;"	f	file:
+take_snapshot	snapshot/unittest/test_hlfs_open_by_inode.c	/^take_snapshot(Fixture *fixture, const void *data) {$/;"	f	file:
+take_snapshot	snapshot/unittest/test_hlfs_open_by_snapshot.c	/^take_snapshot(Fixture *fixture, const void *data) {$/;"	f	file:
+take_snapshot	snapshot/unittest/test_hlfs_rm_snapshot.c	/^take_snapshot(Fixture *fixture, const void *data) {$/;"	f	file:
+test_cache	cache/unittest/test_cache.c	/^void test_cache()$/;"	f
+test_cache_destroy	cache/unittest/test_cache_destroy.c	/^void test_cache_destroy()$/;"	f
+test_cache_init	cache/unittest/test_cache_init.c	/^void test_cache_init()$/;"	f
+test_cache_insert_1	cache/unittest/test_cache_insert.c	/^void test_cache_insert_1()$/;"	f
+test_cache_insert_1	cache/unittest/test_cache_insert_query.c	/^void test_cache_insert_1()$/;"	f
+test_cache_query_1	cache/unittest/test_cache_insert_query.c	/^void test_cache_query_1()$/;"	f
+test_cache_query_1	cache/unittest/test_cache_query.c	/^void test_cache_query_1()$/;"	f
+test_case1	snapshot/unittest/test_take_snapshot.c	/^void test_case1()$/;"	f
+test_case_cache_flush_1	cache/unittest/test_cache_flush.c	/^void test_case_cache_flush_1()$/;"	f
+test_case_cache_flush_2	cache/unittest/test_cache_flush.c	/^void test_case_cache_flush_2()$/;"	f
+test_case_cache_flush_3	cache/unittest/test_cache_flush.c	/^void test_case_cache_flush_3()$/;"	f
+test_case_cache_flush_4	cache/unittest/test_cache_flush.c	/^void test_case_cache_flush_4()$/;"	f
+test_get_refer_inode	clean/unittest/test_get_refer_inode.c	/^void test_get_refer_inode()$/;"	f
+test_hlfs_find_inode_before_time	snapshot/unittest/test_hlfs_find_inode_before_time.c	/^test_hlfs_find_inode_before_time(Fixture *fixture, const void *data) {$/;"	f	file:
+test_hlfs_find_inode_before_time	snapshot/unittest/test_hlfs_get_all_snapshots.c	/^test_hlfs_find_inode_before_time(Fixture *fixture, const void *data) {$/;"	f	file:
+test_hlfs_find_inode_before_time	snapshot/unittest/test_hlfs_get_inode_info.c	/^test_hlfs_find_inode_before_time(Fixture *fixture, const void *data) {$/;"	f	file:
+test_hlfs_find_inode_before_time	snapshot/unittest/test_hlfs_open_by_inode.c	/^test_hlfs_find_inode_before_time(Fixture *fixture, const void *data) {$/;"	f	file:
+test_hlfs_find_inode_before_time	snapshot/unittest/test_hlfs_open_by_snapshot.c	/^test_hlfs_find_inode_before_time(Fixture *fixture, const void *data) {$/;"	f	file:
+test_hlfs_find_inode_by_name	snapshot/unittest/test_hlfs_find_inode_by_name.c	/^test_hlfs_find_inode_by_name(Fixture *fixture, const void *data) {$/;"	f	file:
+test_hlfs_get_all_snapshots	snapshot/unittest/test_hlfs_get_all_snapshots.c	/^test_hlfs_get_all_snapshots(Fixture *fixture, const void *data) {$/;"	f	file:
+test_hlfs_get_inode_info	snapshot/unittest/test_hlfs_get_inode_info.c	/^test_hlfs_get_inode_info(Fixture *fixture, const void *data) {$/;"	f	file:
+test_hlfs_open_by_inode	snapshot/unittest/test_hlfs_open_by_inode.c	/^test_hlfs_open_by_inode(Fixture *fixture, const void *data) {$/;"	f	file:
+test_hlfs_open_by_snapshot	snapshot/unittest/test_hlfs_open_by_snapshot.c	/^test_hlfs_open_by_snapshot(Fixture *fixture, const void *data) {$/;"	f	file:
+test_hlfs_rm_snapshot	snapshot/unittest/test_hlfs_rm_snapshot.c	/^test_hlfs_rm_snapshot(Fixture *fixture, const void *data) {$/;"	f	file:
+test_hlfs_seg_usage_calc_1	tools/unittest/test_hlfs_seg_usage_calc.c	/^void test_hlfs_seg_usage_calc_1()$/;"	f
+test_hlfs_seg_usage_calc_2	tools/unittest/test_hlfs_seg_usage_calc.c	/^void test_hlfs_seg_usage_calc_2()$/;"	f
+test_hlfs_seg_usage_calc_3	tools/unittest/test_hlfs_seg_usage_calc.c	/^void test_hlfs_seg_usage_calc_3()$/;"	f
+test_hlfs_take_snapshot	snapshot/unittest/test_hlfs_take_snapshot.c	/^test_hlfs_take_snapshot(Fixture *fixture, const void *data) {$/;"	f	file:
+test_hlfs_tree_snapshots	snapshot/unittest/test_hlfs_tree_snapshots.c	/^test_hlfs_tree_snapshots(Fixture *fixture, const void *data) {$/;"	f	file:
+test_icache_insert_1	icache/unittest/test_icache.c	/^void test_icache_insert_1()$/;"	f
+test_icache_insert_2	icache/unittest/test_icache.c	/^void test_icache_insert_2()$/;"	f
+test_icache_query_1	icache/unittest/test_icache.c	/^void test_icache_query_1()$/;"	f
+test_icache_query_2	icache/unittest/test_icache.c	/^void test_icache_query_2()$/;"	f
+test_load_seg_usage	clean/unittest/test_load_seg_usage.c	/^void test_load_seg_usage()$/;"	f
+test_no_ss_exist	snapshot/unittest/test_hlfs_list_all_snapshots.c	/^static void test_no_ss_exist(Fixture *fixture, const void *data)$/;"	f	file:
+test_printf	cache/unittest/test_cache_flush.c	/^static int test_printf(void* handle,char* buf,uint32_t start_no,uint32_t end_no){$/;"	f	file:
+test_seg_migrate	clean/unittest/test_seg_migrate.c	/^void test_seg_migrate()$/;"	f
+test_seg_usage_calc	clean/unittest/test_seg_usage_calc.c	/^void test_seg_usage_calc()$/;"	f
+test_seg_usage_text	clean/unittest/test_seg_usage_dump.c	/^void test_seg_usage_text()$/;"	f
+test_setup	snapshot/unittest/test_hlfs_list_all_snapshots.c	/^static void test_setup(Fixture *fixture, const void *data) $/;"	f	file:
+test_ss_exist	snapshot/unittest/test_hlfs_list_all_snapshots.c	/^void test_ss_exist(Fixture *fixture, const void *data) $/;"	f
+test_tear_down	snapshot/unittest/test_hlfs_list_all_snapshots.c	/^static void test_tear_down(Fixture *fixture, const void *data) $/;"	f	file:
+timestamp	include/seg_clean.h	/^	uint64_t timestamp;   \/* create time *\/$/;"	m	struct:segment_usage
+timestamp	include/snapshot.h	/^	uint64_t timestamp;$/;"	m	struct:snapshot
+total_read_count	include/cache.h	/^	uint64_t total_read_count;$/;"	m	struct:cache_ctrl
+total_read_count	include/icache.h	/^	uint64_t 		total_read_count;$/;"	m	struct:icache_ctrl
+total_write_count	include/cache.h	/^	uint64_t total_write_count; $/;"	m	struct:cache_ctrl
+total_write_count	include/icache.h	/^	uint64_t 		total_write_count; $/;"	m	struct:icache_ctrl
+triply_iblock	include/hlfs_ctrl.h	/^    	int64_t triply_iblock;      \/* the next 8K\/8*8K\/8*8K\/8*8K=8TB *\/$/;"	m	struct:inode
+up_sname	include/seg_clean.h	/^	char up_sname[HLFS_FILE_NAME_MAX];$/;"	m	struct:segment_usage
+up_sname	include/snapshot.h	/^	char up_sname[HLFS_FILE_NAME_MAX]; \/* for tree style snapshot *\/$/;"	m	struct:snapshot
+update_icache	logger/log_ops.c	/^static int update_icache(struct icache_ctrl *icctrl,char *log_iblock_buf,uint32_t db_start_no,uint32_t db_num){$/;"	f	file:
+update_inode_index	logger/log_ops.c	/^static int update_inode_index(struct inode *inode, struct log_header * log,uint32_t last_segno,uint32_t last_offset,uint32_t block_size){$/;"	f	file:
+uri	include/cmd_define.h	/^    char uri[128];$/;"	m	struct:__anon14
+uri	include/storage.h	/^   char* uri;$/;"	m	struct:back_storage
+uri	snapshot/unittest/test_hlfs_find_inode_before_time.c	/^	char *uri;$/;"	m	struct:__anon1	file:
+uri	snapshot/unittest/test_hlfs_find_inode_by_name.c	/^	char *uri;$/;"	m	struct:__anon3	file:
+uri	snapshot/unittest/test_hlfs_get_all_snapshots.c	/^	char *uri;$/;"	m	struct:__anon7	file:
+uri	snapshot/unittest/test_hlfs_get_inode_info.c	/^	char *uri;$/;"	m	struct:__anon6	file:
+uri	snapshot/unittest/test_hlfs_list_all_snapshots.c	/^	char *uri;$/;"	m	struct:__anon11	file:
+uri	snapshot/unittest/test_hlfs_open_by_inode.c	/^	char *uri;$/;"	m	struct:__anon4	file:
+uri	snapshot/unittest/test_hlfs_open_by_snapshot.c	/^	char *uri;$/;"	m	struct:__anon5	file:
+uri	snapshot/unittest/test_hlfs_rm_snapshot.c	/^	char *uri;$/;"	m	struct:__anon9	file:
+uri	snapshot/unittest/test_hlfs_take_snapshot.c	/^	char *uri;$/;"	m	struct:__anon8	file:
+uri	snapshot/unittest/test_hlfs_tree_snapshots.c	/^	char *uri;$/;"	m	struct:__anon10	file:
+uri	snapshot/unittest/test_take_snapshot.c	/^	char *uri;$/;"	m	struct:__anon2	file:
+uri	tools/hlfs_mkfs.c	/^static gchar *uri = NULL;$/;"	v	file:
+uri	tools/hlfs_seg_clean.c	/^static gchar *uri = NULL;$/;"	v	file:
+uri	tools/hlfs_seg_usage_calc.c	/^static gchar *uri = NULL;$/;"	v	file:
+uri	tools/hlfs_take_snapshot.c	/^static gchar *uri = NULL;$/;"	v	file:
+uri	tools/nbd_ops.c	/^static gchar *uri = NULL;$/;"	v	file:
+usage_ref	include/hlfs_ctrl.h	/^    int usage_ref;$/;"	m	struct:hlfs_ctrl
+user	include/storage.h	/^   char* user;$/;"	m	struct:back_storage
+value	include/cmd_define.h	/^    int  value;$/;"	m	struct:__anon14
+verbose	tools/hlfs_clone.c	/^static gboolean verbose = FALSE;$/;"	v	file:
+verbose	tools/hlfs_mkfs.c	/^static gboolean verbose = FALSE;$/;"	v	file:
+verbose	tools/hlfs_seg_clean.c	/^static gboolean verbose = FALSE;$/;"	v	file:
+verbose	tools/hlfs_seg_usage_calc.c	/^static gboolean verbose = FALSE;$/;"	v	file:
+verbose	tools/hlfs_take_snapshot.c	/^static gboolean verbose = FALSE;$/;"	v	file:
+verbose	tools/nbd_ops.c	/^static gboolean verbose = FALSE;$/;"	v	file:
+verbose	tools/tapdisk_ops.c	/^static gboolean verbose = FALSE;$/;"	v	file:
+write_cache	cache/cache_helper.c	/^int write_cache(CACHE_CTRL *cctrl, uint32_t start_block_no,char *block_buf) {$/;"	f
+write_callback_func	include/cache.h	/^	FLUSH_CB write_callback_func; 	\/\/$/;"	m	struct:cache_ctrl
+write_callback_user_param	include/cache.h	/^	void *write_callback_user_param;\/\/$/;"	m	struct:cache_ctrl
+write_layer1_iblock	logger/block_ops.c	/^int write_layer1_iblock(struct hlfs_ctrl *hctrl,uint32_t dbno,char *iblock){$/;"	f
+write_layer2_iblock	logger/block_ops.c	/^int write_layer2_iblock(struct hlfs_ctrl *hctrl,uint32_t dbno,char *iblock){$/;"	f
+write_layer3_iblock	logger/block_ops.c	/^int write_layer3_iblock(struct hlfs_ctrl *hctrl,uint32_t dbno,char *iblock){$/;"	f
+writer_waken_cond	include/cache.h	/^	GCond *writer_waken_cond; 	\/\/The condition of flush thread awaking writer thread$/;"	m	struct:cache_ctrl
+~SegUsageCalcMap	clean/Mapreducer/mr_clean_route.cpp	/^        ~SegUsageCalcMap() {$/;"	f	class:SegUsageCalcMap
+~SegUsageCalcWriter	clean/Mapreducer/mr_clean_route.cpp	/^    ~SegUsageCalcWriter() {$/;"	f	class:SegUsageCalcWriter

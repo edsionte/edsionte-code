@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/1376/trunk/hlfs/test
+END
+test_base_with_cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1376/trunk/hlfs/test/test_base_with_cache.c
+END
+test_base.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1376/trunk/hlfs/test/test_base.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1376/trunk/hlfs/test/CMakeLists.txt
+END
+log4crc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1376/trunk/hlfs/test/log4crc
+END
+test_base_with_icache.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1376/trunk/hlfs/test/test_base_with_icache.c
+END
+test_clean_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1376/trunk/hlfs/test/test_clean_task.c
+END
