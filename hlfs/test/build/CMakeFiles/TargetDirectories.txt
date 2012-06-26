@@ -1,4 +1,0 @@
-/home/edsionte/hlfs/test/build/CMakeFiles/test_base.dir
-/home/edsionte/hlfs/test/build/CMakeFiles/test_base_with_cache.dir
-/home/edsionte/hlfs/test/build/CMakeFiles/test_base_with_icache.dir
-/home/edsionte/hlfs/test/build/CMakeFiles/test_clean_task.dir
